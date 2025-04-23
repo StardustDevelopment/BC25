@@ -1,5 +1,5 @@
 # Store Id
-data modify storage minecraft:access temp_id set from entity @n[tag=access_machine] Tags[1]
+data modify storage minecraft:access temp_id set from entity @s Tags[0]
 
 # Get Current Entity via index
 function access:set_current with storage minecraft:access
