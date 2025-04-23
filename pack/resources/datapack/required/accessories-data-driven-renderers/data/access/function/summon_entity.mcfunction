@@ -1,0 +1,1 @@
+$execute at @s run summon $(temp_current_entity) $(temp_x) $(temp_y) $(temp_z) {NoGravity:1b,Silent:1b,Invulnerable:1b,DeathLootTable:"minecraft:empty",PersistenceRequired:1b,NoAI:1b,CanPickUpLoot:0b,Tags:["access_machine",$(temp_id),"access_machine_need_move"],attributes:[{id:"minecraft:generic.scale",base:0.5}]}
