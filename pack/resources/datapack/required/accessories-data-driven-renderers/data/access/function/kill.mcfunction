@@ -1,1 +1,0 @@
-kill @e[tag=access_machine_remove]
