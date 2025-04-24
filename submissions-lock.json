@@ -3673,11 +3673,11 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
@@ -3693,16 +3693,16 @@
 			},
 			"mods/polysit.pw.toml": {
 				"download": {
-					"hash": "24312bbef41ea68b13906983db8eec33d981cbfed5e923691519dc5f5f0f634cb38645a1dc484048d565e6881302209de779e8c45bda707da33ce611f1a27cdb",
+					"hash": "b692c9b15469204b9b315b6f7d6490515193d179987f41a5995a36b5a28c45752e769ca376d909cc5a6aab9895e457fb140093447440b460fd228da80ba7ab82",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/G9eJHDO2/versions/Jc8D0myc/polysit-0.9.3%2Bmc.1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/G9eJHDO2/versions/mspC2wDR/polysit-0.9.3-blanketcon.1%2Bmc.1.21.1.jar"
 				},
-				"filename": "polysit-0.9.3+mc.1.21.1.jar",
+				"filename": "polysit-0.9.3-blanketcon.1+mc.1.21.1.jar",
 				"name": "Polysit",
 				"side": "server"
 			}
 		},
-		"key": "a396492ac0e905bd17af88b8e539a28e3f03ee8d5ebc1b4891500a481a71744b"
+		"key": "747cdae8b236891452de35e0f001762ddfd4c28bc463daa86575fe866ef53927"
 	},
 	"portable-crafting": {
 		"files": {
@@ -4607,15 +4607,15 @@
 		"files": {
 			"mods/superposition.pw.toml": {
 				"download": {
-					"hash": "b0c34bd3ae99e8c28c7ef32f1a2cc613a6415a39f60ce6ba5d97b024bcf6ad21",
+					"hash": "d1ec558036ef8bdf4bcf3258d03362c16ba7fb06aa197528786b91a65d5eebb8",
 					"hash-format": "sha256",
-					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.27/superposition-fabric-1.21.1-0.2.27.jar"
+					"url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.28/superposition-fabric-1.21.1-0.2.28.jar"
 				},
-				"filename": "superposition-fabric-1.21.1-0.2.27.jar",
+				"filename": "superposition-fabric-1.21.1-0.2.28.jar",
 				"name": "superposition"
 			}
 		},
-		"key": "058ce27006c4dab905e1badb091583610e251e9136c20d8469b7482cc653fe48"
+		"key": "fdaae717e363ca867397d35d5228dfc4814c350a8e8e2685c00a65a4b5511b80"
 	},
 	"surveyor": {
 		"files": {
