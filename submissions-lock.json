@@ -403,26 +403,26 @@
 		"files": {
 			"mods/automobility.pw.toml": {
 				"download": {
-					"hash": "7e5611e625502c74b277c862a5ec9b1a492db6fda0d37258a9c2ec1707f20771f23d525a89cf737c2519a73c9e27f35a8f56b1f69514b734b03b7bee64e72a23",
+					"hash": "0d6a13fc385736585c31b31ef7d83f5f2482fb8002f87642d9b6b7a8cb4c9f02c3dd5a7e7ce67f51341cc505378adb0ce38b312a1c5789911c6b102b6f822789",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/ucu8ghG5/automobility-0.5.0.g%2B1.21.1-fabric.jar"
+					"url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/vvzu2A6h/automobility-0.5.0.h%2B1.21.1-fabric.jar"
 				},
-				"filename": "automobility-0.5.0.g+1.21.1-fabric.jar",
+				"filename": "automobility-0.5.0.h+1.21.1-fabric.jar",
 				"name": "Automobility",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "5f45105fb3e2674395230acd21852267010f25153d197c7698bed887e515b7257fbcd9b22c6c710bd65d05c00f9ea95b2ed3071c2813fdebc2d8a160f7a64ba5",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/X9NXysME/fabric-api-0.115.5%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.5+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "41f2cd1216d5b904298b91af72ff2da43a5852675fd513c85f0165480a7a0a4c"
+		"key": "2793848de2cc89c036c99e027f03edb0339a45ec2a7fa7016815838f088f40fc"
 	},
 	"autowhitelist": {
 		"files": {
@@ -1817,16 +1817,16 @@
 		"files": {
 			"mods/fallflyingrestrictions.pw.toml": {
 				"download": {
-					"hash": "553f08b5e9e8b96552bf9cb5d85574fa9dddf3904724d2b3e6fcacebf19997db0f20fa4d344efcf70575487b357f02e3266c808030809c1116cec589ba4f01a8",
+					"hash": "9dd9f1b7f08237aff755efb85cab246ed22aba3ee2584d325acaf418d06722c5af777622097ce85254649ea327ca65813394448af396da3e52b1b658c654682e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/pMqmRqTZ/versions/geyLZIRK/fallflyingrestrictions-1.0.1-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/pMqmRqTZ/versions/27wwukLe/fallflyingrestrictions-1.0.2-1.21.1.jar"
 				},
-				"filename": "fallflyingrestrictions-1.0.1-1.21.1.jar",
+				"filename": "fallflyingrestrictions-1.0.2-1.21.1.jar",
 				"name": "FallFlyingRestrictions",
 				"side": "both"
 			}
 		},
-		"key": "cf5d17eb8a3415ca71cd7dff9d1e05ba2c55622cb87c304e437ebafc6466f444"
+		"key": "11fb1e9661ba38f2bf3c7004b522f371a2c60d6c088e5b1812e81ba29a32076f"
 	},
 	"familiar-friends": {
 		"files": {
@@ -4027,21 +4027,21 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/scarves.pw.toml": {
 				"download": {
-					"hash": "e512a76d99e6908d672e576381649bc4535008407653eff4fafe7537933ea15b230972272e652584b8f84b04dbf2c257198dafa33503a8ebdf4164a48f0b9098",
+					"hash": "eda290962d429b41eb1938b28dea1d05b9f8eb5cfa317b2a63b092f2f15eb29db0c044a11f6aff1cd0fabd1fdd193a53e3292c1f9c806c30fd0ea79619b28112",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/vhY4Cys8/versions/cKWxZ8wC/scarves-1.4.5%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/vhY4Cys8/versions/55tRu1MD/scarves-1.4.6%2B1.21.1.jar"
 				},
-				"filename": "scarves-1.4.5+1.21.1.jar",
+				"filename": "scarves-1.4.6+1.21.1.jar",
 				"name": "Scarves",
 				"side": "both"
 			},
@@ -4056,7 +4056,7 @@
 				"side": "both"
 			}
 		},
-		"key": "9316ef25adaee15ae122bd43cc46f9dda7b50083c532661602f541a19305a36e"
+		"key": "aa24270fe75bd9487a5ccf9a292d840b2e7e3f390c672d6dbbbb77f3894eab95"
 	},
 	"scriptor-magicae": {
 		"files": {
