@@ -4,7 +4,7 @@
 		flyingTooHigh: true,
 		blockedInventory: true,
 		blockedEating: true,
-		blockedItemUsage: true,
+		blockedItemUsage: false,
 		zoneTakeOff: true,
 		zoneFlying: true,
 	},
