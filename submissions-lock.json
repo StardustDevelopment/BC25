@@ -1261,11 +1261,11 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "ca716391ad90e282112649546d05859806baac490b52bac359fdff14d0a4700e5254e8683d8964b311cc22251bc70ea5b2911764de9fbc270a959d0211e2290e",
+					"hash": "f8996c2bd899bdc85d5ea6a87cee81dc091cdaf5cce790b33ad5aedef10f5a8a6ab65856e7a3f1267016825962d9ca18256116a7a783c8e6f9ca4471c4c5789e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/HZKWFIbL/chitinous_ties-2.3.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/1bHSkVHB/chitinous_ties-2.4.0%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-2.3.2+1.21.1.jar",
+				"filename": "chitinous_ties-2.4.0+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
@@ -1290,7 +1290,7 @@
 				"side": "both"
 			}
 		},
-		"key": "63a00458d0e486a90372ec602aae63749f876c727ebf739070138e8d9e8d221c"
+		"key": "aeaaaf9e11ebdbfefa030e40b5944e7e8aa915ba6f1c70d465f1129146653290"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -1684,26 +1684,26 @@
 		"files": {
 			"mods/enchiridion.pw.toml": {
 				"download": {
-					"hash": "1a80e077bd0b7583dbd3b63ab7d4d36c30439eb919c7c8d2f8ca49a2d2b99f891def997cce5c915e75fc9cd89aa2eeb44cf8e720d1e639352639aa61c39e5189",
+					"hash": "1476f9159a31b1aa6be9269ec6d6617a129c3adc99d9cc3a711349077c85dda7caec12725b108f52e777248c9b18e3c7e0627d41289fabf28f2abcd95e171ba2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/Ipv6bx2w/enchiridion-fabric-0.1.0-bc25.19%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/LXagYH7y/versions/WGynZN4X/enchiridion-fabric-0.1.0-bc25.20%2B1.21.1.jar"
 				},
-				"filename": "enchiridion-fabric-0.1.0-bc25.19+1.21.1.jar",
+				"filename": "enchiridion-fabric-0.1.0-bc25.20+1.21.1.jar",
 				"name": "Enchiridion",
 				"side": "both"
 			},
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			}
 		},
-		"key": "4bd2512f86a35b0eb573b04c87c89ff8b703878651295ea069ce087233445ba6"
+		"key": "ff39044de327f27c26b4cc792566aa187abbc8e95b247602cac74883d2ae36e0"
 	},
 	"explosive-enhancement": {
 		"files": {
@@ -3112,26 +3112,26 @@
 		"files": {
 			"mods/fabric-api.pw.toml": {
 				"download": {
-					"hash": "15457923c076aabb32b52ddc0bd9fdd4bd88cd80cc34c76b5ac0263ba576dc51d788ac6e69303aa451a3d544755f84676f5814308f180a57b3d61ebaa8bd7410",
+					"hash": "11771581ceccf16534279b1db1a46c3c1a731fb11f4a52413e7c8b7f2cef181cca2ff5c1131280624fbd733ee37c1741bd7fb641613ffedbc7c5e68dd121a045",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/TMgpR77k/fabric-api-0.115.4%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/4AkOEqGy/fabric-api-0.115.6%2B1.21.1.jar"
 				},
-				"filename": "fabric-api-0.115.4+1.21.1.jar",
+				"filename": "fabric-api-0.115.6+1.21.1.jar",
 				"name": "Fabric API",
 				"side": "both"
 			},
 			"mods/omnicrossbow.pw.toml": {
 				"download": {
-					"hash": "55edec28a75ea3747244529fffea89a93c76c93b76a78bc08068808f91e1600c2af8f532473bf4a17e2f788886c7d97076cf7763f3a6c0fcf2268fb472330e67",
+					"hash": "43d3c9ff9c270f4195cb0b5f69232c4dce21380e4eb668ccffa230be0c085e2436bba711427b58ebdd81cc091a52668c95067e7bc71be6f41f40238fa0f74a3c",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/XdqMJ2jJ/omnicrossbow-0.4.3%2Bmc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/TxqFWfQR/versions/Z0EuuG59/omnicrossbow-0.4.4%2Bmc1.21.1.jar"
 				},
-				"filename": "omnicrossbow-0.4.3+mc1.21.1.jar",
+				"filename": "omnicrossbow-0.4.4+mc1.21.1.jar",
 				"name": "OmniCrossbow",
 				"side": "both"
 			}
 		},
-		"key": "678dfb56fccb41056a41aa14cc9187eb203907aac2fb7b3a85656a11a03a04b0"
+		"key": "4aa70378b8b3da6883e196d6218b62126bb92e17b7a8aa8d3891f244732f143a"
 	},
 	"operation-starcleave": {
 		"files": {
