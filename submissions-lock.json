@@ -1261,11 +1261,11 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "ca716391ad90e282112649546d05859806baac490b52bac359fdff14d0a4700e5254e8683d8964b311cc22251bc70ea5b2911764de9fbc270a959d0211e2290e",
+					"hash": "f8996c2bd899bdc85d5ea6a87cee81dc091cdaf5cce790b33ad5aedef10f5a8a6ab65856e7a3f1267016825962d9ca18256116a7a783c8e6f9ca4471c4c5789e",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/HZKWFIbL/chitinous_ties-2.3.2%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/1bHSkVHB/chitinous_ties-2.4.0%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-2.3.2+1.21.1.jar",
+				"filename": "chitinous_ties-2.4.0+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
@@ -1290,7 +1290,7 @@
 				"side": "both"
 			}
 		},
-		"key": "63a00458d0e486a90372ec602aae63749f876c727ebf739070138e8d9e8d221c"
+		"key": "aeaaaf9e11ebdbfefa030e40b5944e7e8aa915ba6f1c70d465f1129146653290"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -2598,8 +2598,8 @@
 		"files": {
 			"mods/geckolib.pw.toml": {
 				"download": {
-					"hash": "04f89794373ef193df4285818760db002413f5c6",
-					"hash-format": "sha1",
+					"hash": "8f2f95c8801c609c96834d06f14046cde2877dc18aa351e35b957d3d123688f61b673f8c9f1cf8fbffe345d2ada61c61d5dea0864595422d82351dcfca49090c",
+					"hash-format": "sha512",
 					"url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/PEvrTvgj/geckolib-fabric-1.21.1-4.7.5.1.jar"
 				},
 				"filename": "geckolib-fabric-1.21.1-4.7.5.1.jar",
@@ -2608,16 +2608,16 @@
 			},
 			"mods/kawaii-dishes.pw.toml": {
 				"download": {
-					"hash": "6e1373f846591fa074ee2da978443653f9295b8b",
-					"hash-format": "sha1",
-					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/Vq9gZmS7/kawaii-dishes-1.13-beta13.jar"
+					"hash": "b57cd790f31158b77438ae917a3042f35bbf11c0acb7d7a0c7c65c4e64f18f655ed9e3348f01b814d390e91ec259e0fd5845ce4553ae63a50371c37046b0f33e",
+					"hash-format": "sha512",
+					"url": "https://cdn.modrinth.com/data/v2Vpr5Uf/versions/CYEATgik/kawaii-dishes-1.13-beta14.jar"
 				},
-				"filename": "kawaii-dishes-1.13-beta13.jar",
+				"filename": "kawaii-dishes-1.13-beta14.jar",
 				"name": "Kawaii Dishes",
 				"side": "both"
 			}
 		},
-		"key": "cf2feac31aca092f8c81594fc499e36cc654e37515d817f0eaa68e08861d7cab"
+		"key": "454478705cd111681f84c9891f3809a1861f27bc66338d5f9bad7233d0b99481"
 	},
 	"klaxon": {
 		"files": {
