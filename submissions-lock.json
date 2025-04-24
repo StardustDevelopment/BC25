@@ -1261,11 +1261,11 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "f8996c2bd899bdc85d5ea6a87cee81dc091cdaf5cce790b33ad5aedef10f5a8a6ab65856e7a3f1267016825962d9ca18256116a7a783c8e6f9ca4471c4c5789e",
+					"hash": "f9820c07e9bd45d53fc8b653f1601881b702abc96506cbb70f474901e25286573f59b9dc0e7cedb11567c4d274d440829e7e9ed2bb00155a6d4edbe39fc5a8c2",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/1bHSkVHB/chitinous_ties-2.4.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/BtRutRYW/chitinous_ties-2.4.0-bc25.1%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-2.4.0+1.21.1.jar",
+				"filename": "chitinous_ties-2.4.0-bc25.1+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
@@ -1290,7 +1290,7 @@
 				"side": "both"
 			}
 		},
-		"key": "aeaaaf9e11ebdbfefa030e40b5944e7e8aa915ba6f1c70d465f1129146653290"
+		"key": "89cab2954c46e826d2725f9b7e5a0387d9b1b459e0a85837d05c5c735a6e23b7"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
