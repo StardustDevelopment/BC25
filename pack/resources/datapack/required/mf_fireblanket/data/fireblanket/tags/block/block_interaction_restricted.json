@@ -52,6 +52,8 @@
 		"affinity:staff_pedestal",
 		"affinity:villager_armature",
 		"affinity:item_transfer_node",
-		"affinity:spirit_integration_apparatus"
+		"affinity:spirit_integration_apparatus",
+    "cerulean:self_collapsing_cube",
+    "cerulean:oak_gapdoor"
 	]
 }
