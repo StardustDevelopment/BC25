@@ -24,7 +24,7 @@ debugCommands = false
 # Ignores chunk changes that don't affect the amount of air in the chunk
 # Saves on performance, a little inaccurate sometimes.
 # default: true
-lazyClientUpdating = true # flip me when updating surveyor past alpha 6, i'm dumb
+lazyClientUpdating = false
 
 [networking]
 	# [Server] Whether to place every player in a single share group
@@ -35,7 +35,7 @@ lazyClientUpdating = true # flip me when updating surveyor past alpha 6, i'm dum
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# options: NONE, SOLO, GROUP, SERVER
 	# default: GROUP
-	terrain = "NONE"
+	terrain = "SERVER"
 	# How much structure data to send to clients
 	# SERVER sends server-known data, GROUP sends group-known data, SOLO sends player-known data, NONE sends no data
 	# When NONE, clients will never see structures
@@ -65,7 +65,7 @@ lazyClientUpdating = true # flip me when updating surveyor past alpha 6, i'm dum
 	# default: 1
 	positionTicks = 1
 
-[builtins]
+	[builtins]
 	# Which block entities to preserve data for when creating block landmarks.
 	allowedBlockEntities = ["minecraft:banner"]
 	# Which points of interest to automatically add block landmarks for.
