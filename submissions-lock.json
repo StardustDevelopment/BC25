@@ -1261,11 +1261,11 @@
 		"files": {
 			"mods/chitinous_ties.pw.toml": {
 				"download": {
-					"hash": "f9820c07e9bd45d53fc8b653f1601881b702abc96506cbb70f474901e25286573f59b9dc0e7cedb11567c4d274d440829e7e9ed2bb00155a6d4edbe39fc5a8c2",
+					"hash": "74a7f92ac186c29993c54e4556f17c1bdb407d527d4865c479c6db5c763860182d7d956b0fcf46a4a8041def932889654277aab4168c517bb717c3b48534bad4",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/BtRutRYW/chitinous_ties-2.4.0-bc25.1%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/MkLZoL69/versions/Rlr5SkHk/chitinous_ties-2.4.1-bc25.1%2B1.21.1.jar"
 				},
-				"filename": "chitinous_ties-2.4.0-bc25.1+1.21.1.jar",
+				"filename": "chitinous_ties-2.4.1-bc25.1+1.21.1.jar",
 				"name": "Chitinous Ties",
 				"side": "both"
 			},
@@ -1290,7 +1290,7 @@
 				"side": "both"
 			}
 		},
-		"key": "89cab2954c46e826d2725f9b7e5a0387d9b1b459e0a85837d05c5c735a6e23b7"
+		"key": "a7a50afe8f69e298e37ff8e89bb5a6233b5fc39b3a0ecb3a0601800b4af5b4ff"
 	},
 	"city_vehicles_automobility_addon": {
 		"files": {
@@ -3070,16 +3070,16 @@
 			},
 			"mods/neomtr.pw.toml": {
 				"download": {
-					"hash": "c80ee1961780af569bcad7784d5f6a0a8cac388a63d223b78ab46289541f07530726d591d098973ce081e03beda8cbf89db70e37dfaa35cf317eec751f8d78df",
+					"hash": "bd6fa89ca45a93ce0d1024380617d0465ddcd11b5cb58c9a8995308cd9db5e695efe6971e2a99667aa2fd2f37e8860e174b52c971cd63c389fdf42ed22569646",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xilU2EKS/versions/ruGbwxkV/NeoMTR-fabric-300.6.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/xilU2EKS/versions/ZJvO1wvJ/NeoMTR-fabric-300.5.2%2B1.21.1.jar"
 				},
-				"filename": "NeoMTR-fabric-300.6.0+1.21.1.jar",
+				"filename": "NeoMTR-fabric-300.5.2+1.21.1.jar",
 				"name": "NeoMTR",
 				"side": "both"
 			}
 		},
-		"key": "6a6bd45581b1fdc91eb4f4fa844b4d65fb5b120efb2bdcad55a8e1d2b60966c8"
+		"key": "df7d464033eb5f5464ffde689e1299d99047ffa48c28f76e6befe95b3e12cab6"
 	},
 	"nix-minecraft": {
 		"files": {},
