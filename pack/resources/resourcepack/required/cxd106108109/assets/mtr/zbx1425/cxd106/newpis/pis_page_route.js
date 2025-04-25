@@ -1,4 +1,4 @@
-var imgCartoonTrain = Resources.readBufferedImage(Resources.idRelative("cartoon_train.png"));
+// var imgCartoonTrain = Resources.readBufferedImage(Resources.idRelative("cartoon_train.png"));
 
 function paintPisRoute(g, state, train, side) {
   let staCfg = state.staCfg;
