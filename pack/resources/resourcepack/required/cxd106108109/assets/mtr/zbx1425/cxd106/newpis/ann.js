@@ -48,11 +48,11 @@ function playAnn(ctx, state, train) {
     }
 
     if (state.posPhase.stateNow() == "rte") {
-      if (isTerminating) {
+      /* if (isTerminating) {
         soundToPlay = rteStaCode + "_next_term";
       } else if (isThroughRunning) {
         soundToPlay = rteStaCode + "_next_thru";
-      } else if (!!prevStationConfig["specDep"]) {
+      } else */ if (!!prevStationConfig["specDep"]) {
         soundToPlay = rteStaCode + "_next_specdep";
       } else {
         soundToPlay = rteStaCode + "_next";
