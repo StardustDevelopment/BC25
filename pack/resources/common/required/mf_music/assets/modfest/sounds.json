@@ -506,13 +506,19 @@
 	"music.the_ruins": {
 		"subtitle": "now-playing.modfest:music/the_ruins",
 		"sounds": [
-			"modfest:music/the_ruins"
+			{
+				"name": "modfest:music/the_ruins",
+				"stream": true
+			}
 		]
 	},
 	"music.stereo.the_ruins": {
 		"subtitle": "now-playing.modfest:music/the_ruins",
 		"sounds": [
-			"modfest:music/stereo/the_ruins"
+			{
+				"name": "modfest:music/stereo/the_ruins",
+				"stream": true
+			}
 		]
 	},
 	"music.area.airship": {
