@@ -3,7 +3,7 @@ darkMojangStudiosBackground:false
 skipMultiplayerWarning:true
 joinedFirstServer:true
 tutorialStep:none
-renderDistance:12
+renderDistance:24
 realmsNotifications:false
 autoJump:false
 key_key.attack:key.mouse.left
