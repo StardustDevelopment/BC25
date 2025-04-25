@@ -82,22 +82,10 @@
     {
       "require": {
         "type": "permission",
-        "permission": "modfest.netadmin"
-      },
-      "message_formats": {
-        "chat": "<c:#24f9ff>\\<</c>${player}<c:#24f9ff>\\></c> ${message}"
-      },
-      "formatting": {},
-      "emoticons": {},
-      "custom_message_types": {}
-    },
-    {
-      "require": {
-        "type": "permission",
         "permission": "modfest.organizer"
       },
       "message_formats": {
-        "chat": "<c:#ff0099>\\<</c>${player}<c:#ff0099>\\></c> ${message}"
+        "chat": "<c:#e74c3c>\\<</c>${player}<c:#e74c3c>\\></c> ${message}"
       },
       "formatting": {},
       "emoticons": {},
@@ -111,6 +99,19 @@
       "display_name": "${default}",
       "message_formats": {
         "chat": "<c:#aaff97>\\<</c>${player}<c:#aaff97>\\></c> ${message}"
+      },
+      "formatting": {},
+      "emoticons": {},
+      "custom_message_types": {}
+    },
+    {
+      "require": {
+        "type": "permission",
+        "permission": "modfest.participant"
+      },
+      "display_name": "${default}",
+      "message_formats": {
+        "chat": "<c:#49c2e0>\\<</c>${player}<c:#49c2e0>\\></c> ${message}"
       },
       "formatting": {},
       "emoticons": {},

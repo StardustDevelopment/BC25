@@ -19,7 +19,7 @@
             "worldinajar:create_jar": true
         }
     },
-    "participant": {
+    "fixer": {
         "level": 10,
         "overrides": {
             "permission_level": 2,
@@ -47,6 +47,14 @@
             }
         }
     },
+	"participant": {
+		"level": 5,
+        "overrides": {
+            "permission_keys": {
+				"modfest.participant": "allow"
+			}
+		}
+	},
     "everyone": {
         "overrides": {
             "permission_keys": {
