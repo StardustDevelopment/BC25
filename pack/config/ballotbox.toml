@@ -24,4 +24,4 @@ credits_text = "Modpack Credits"
 awardLimit = 8
 # The closing date, as an ISO local date time - or an empty string for none
 # default: 2024-12-16T12:00:00
-closingTime = "2025-03-31T12:00:00"
+closingTime = "2025-05-4T12:00:00"
