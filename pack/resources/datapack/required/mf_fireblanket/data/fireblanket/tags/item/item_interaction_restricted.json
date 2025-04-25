@@ -1,8 +1,8 @@
 {
 	"values": [
 		"minecraft:shears",
-		"minecraft:egg",
 		"berry_bounty:sinister_berry",
-		"rods_from_god:the_one_watch"
+		"polyfactory:dynamite",
+		"polyfactory:sticky_dynamite"
 	]
 }
