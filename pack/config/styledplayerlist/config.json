@@ -9,14 +9,23 @@
   },
   "player": {
     "modify_name": true,
-    "modify_right_text": true,
+    "modify_right_text": false,
     "passthrough": false,
     "hidden": false,
     "format": "%player:displayname%",
     "right_text": "<gray>%playerpronouns:pronouns%",
     "update_on_chat_message": true,
     "update_tick_time": -1,
-    "styles": []
+    "styles": [
+      {
+        "require": {
+          "type": "permission",
+          "permission": "modfest.organizer"
+        },
+        "format": "[<white><font 'modfest:emoji'></*>] %player:displayname%",
+        "passthrough": false
+      }
+    ]
   },
   "client_show_in_singleplayer": true
 }
