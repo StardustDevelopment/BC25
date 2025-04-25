@@ -26,11 +26,12 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:breeze_rod",
+          "name": "confetti_stuff:party_popper",
+          "weight": 4,
           "functions": [
             {
               "function": "minecraft:set_count",
-              "count": 4
+              "count": 1
             }
           ]
         },
