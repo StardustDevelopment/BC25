@@ -5,6 +5,7 @@
 		"polyfactory:dynamite",
 		"polyfactory:sticky_dynamite",
 		"minecraft:bucket",
-		"minecraft:water_bucket"
+		"minecraft:water_bucket",
+		"minecraft:wind_charge"
 	]
 }
