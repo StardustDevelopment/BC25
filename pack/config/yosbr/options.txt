@@ -82,7 +82,7 @@ key_key.ballotbox.open:key.keyboard.apostrophe
 key_key.boatism.power_level_up:key.keyboard.unknown
 key_key.boatism.power_level_down:key.keyboard.unknown
 key_key.combatamenities.backslot:key.keyboard.r
-key_key.combatamenities.beltslot:key.keyboard.left.alt
+key_key.combatamenities.beltslot:key.keyboard.right.control
 key_dancerizer.keybind.dance:key.keyboard.u
 key_dancerizer.keybind.taunt:key.keyboard.i
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.unknown
@@ -120,8 +120,8 @@ key_key.pfm.toiletUse:key.keyboard.b
 key_key.playercontainer.release:key.keyboard.b
 key_key.polaroidcamera.take_picture:key.keyboard.c
 key_key.polysit.sit:key.keyboard.y
-key_key.portable_crafting.open_crafting_table:key.keyboard.j
-key_key.scattered_shards.collection:key.keyboard.unknown
+key_key.portable_crafting.open_crafting_table:key.keyboard.unknown
+key_key.scattered_shards.collection:key.keyboard.j
 key_key.sidekick.teleport:key.keyboard.unknown
 key_key.sidekick.save_position:key.keyboard.unknown
 key_key.sidekick.recall_position:key.keyboard.unknown
@@ -166,7 +166,7 @@ key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.waila.config:key.keyboard.unknown
-key_key.waila.show_overlay:key.keyboard.unknown
+key_key.waila.show_overlay:key.keyboard.left.alt
 key_key.waila.toggle_liquid:key.keyboard.unknown
 key_key.waila.show_recipe_input:key.keyboard.unknown
 key_key.waila.show_recipe_output:key.keyboard.unknown
