@@ -3070,16 +3070,16 @@
 			},
 			"mods/neomtr.pw.toml": {
 				"download": {
-					"hash": "c80ee1961780af569bcad7784d5f6a0a8cac388a63d223b78ab46289541f07530726d591d098973ce081e03beda8cbf89db70e37dfaa35cf317eec751f8d78df",
+					"hash": "bd6fa89ca45a93ce0d1024380617d0465ddcd11b5cb58c9a8995308cd9db5e695efe6971e2a99667aa2fd2f37e8860e174b52c971cd63c389fdf42ed22569646",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/xilU2EKS/versions/ruGbwxkV/NeoMTR-fabric-300.6.0%2B1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/xilU2EKS/versions/ZJvO1wvJ/NeoMTR-fabric-300.5.2%2B1.21.1.jar"
 				},
-				"filename": "NeoMTR-fabric-300.6.0+1.21.1.jar",
+				"filename": "NeoMTR-fabric-300.5.2+1.21.1.jar",
 				"name": "NeoMTR",
 				"side": "both"
 			}
 		},
-		"key": "6a6bd45581b1fdc91eb4f4fa844b4d65fb5b120efb2bdcad55a8e1d2b60966c8"
+		"key": "df7d464033eb5f5464ffde689e1299d99047ffa48c28f76e6befe95b3e12cab6"
 	},
 	"nix-minecraft": {
 		"files": {},
