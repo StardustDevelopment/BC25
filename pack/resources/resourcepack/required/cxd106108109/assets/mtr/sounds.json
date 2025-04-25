@@ -33,5 +33,7 @@
     "onix1500_run":{ "sounds": [{ "name": "mtr:onix1500/run", "attenuation_distance": 24 }] },
     "onix1500_doorcls":{ "sounds": [{ "name": "mtr:onix1500/doorcls", "attenuation_distance": 24 }] },
     "onix1500_dooropn":{ "sounds": [{ "name": "mtr:onix1500/dooropn", "attenuation_distance": 24 }] },
-    "onix1500_rub":{ "sounds": [{ "name": "mtr:onix1500/rub", "attenuation_distance": 24 }] }
+    "onix1500_rub":{ "sounds": [{ "name": "mtr:onix1500/rub", "attenuation_distance": 24 }] },
+
+    "ann_ewl_bes_next": {"sounds": ["mtr:ann/ewl_bes_next"]}, "ann_ewl_cac_next": {"sounds": ["mtr:ann/ewl_cac_next"]}, "ann_ewl_chd_next": {"sounds": ["mtr:ann/ewl_chd_next"]}, "ann_ewl_chd_next_specdep": {"sounds": ["mtr:ann/ewl_chd_next_specdep"]}, "ann_ewl_foc_next": {"sounds": ["mtr:ann/ewl_foc_next"]}, "ann_ewl_grp_next": {"sounds": ["mtr:ann/ewl_grp_next"]}, "ann_ewl_jur_next": {"sounds": ["mtr:ann/ewl_jur_next"]}, "ann_ewl_jur_next_specdep": {"sounds": ["mtr:ann/ewl_jur_next_specdep"]}, "ann_nsl_boe_next": {"sounds": ["mtr:ann/nsl_boe_next"]}, "ann_nsl_boe_next_specdep": {"sounds": ["mtr:ann/nsl_boe_next_specdep"]}, "ann_nsl_cap_next": {"sounds": ["mtr:ann/nsl_cap_next"]}, "ann_nsl_cap_next_specdep": {"sounds": ["mtr:ann/nsl_cap_next_specdep"]}, "ann_nsl_dun_next": {"sounds": ["mtr:ann/nsl_dun_next"]}, "ann_nsl_grp_next": {"sounds": ["mtr:ann/nsl_grp_next"]}, "ann_nsl_res_next": {"sounds": ["mtr:ann/nsl_res_next"]}, "ann_nsl_res_next_specdep": {"sounds": ["mtr:ann/nsl_res_next_specdep"]}, "ann_nsl_voc_next": {"sounds": ["mtr:ann/nsl_voc_next"]}
 }

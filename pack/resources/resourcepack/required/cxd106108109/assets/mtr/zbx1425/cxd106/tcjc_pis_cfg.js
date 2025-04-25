@@ -10,9 +10,9 @@ var pisConfig = {
   },
 
   "stations": {
-    "grp": { },
+    "grp": { "specDep": true },
     "res": { "door": "left" },
-    "vol": { },
+    "voc": { },
     "dun": { "door": "right", "tbOnPlat": true },
     "chd": { "door": "right" },
     "foc": { "door": "left", "tbOnPlat": true },
@@ -56,8 +56,8 @@ var pisConfig = {
     "3s_grp": { "door": "right" },
     "4s_grp": { "door": "left" },
 
-    "1s_vol": { "door": "left" },
-    "1x_vol": { "door": "right" }
+    "1s_voc": { "door": "left" },
+    "1x_voc": { "door": "right" }
   },
 };
 
