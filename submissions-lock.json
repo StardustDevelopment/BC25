@@ -3887,16 +3887,16 @@
 		"files": {
 			"mods/pulchra-occultorum.pw.toml": {
 				"download": {
-					"hash": "d75230721e3b6f524e08ee637cf15a9c37924b4f175248e70af14c8841c3a386f66105cb3d3201481e587ccdac4d61529b8861e31bf3aadee7d3a4fe52b2b965",
+					"hash": "02bb9255291dfe134e08b0328b09fc1b34efd091ea094d2f31dfd292dfae6a0eee4497dce78b261e7a23717d7ce02dfa9055a2277e7312d4cd85460d7daa5d63",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/4oTuj6pQ/pulchra-occultorum-0.0.20-1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/4vHHqRFc/versions/QovywqsE/pulchra-occultorum-0.0.21-1.21.1.jar"
 				},
-				"filename": "pulchra-occultorum-0.0.20-1.21.1.jar",
+				"filename": "pulchra-occultorum-0.0.21-1.21.1.jar",
 				"name": "Pulchra Occultorum",
 				"side": "both"
 			}
 		},
-		"key": "0d52e57672e89d5a4cd622376c932e497afbcf3ebb454615abe223dd2d72cadc"
+		"key": "c54cc69558d90cc16bb18d416425925c9140f78cb39ff6bd4474010a9ec3e468"
 	},
 	"pumpkin-pie-delight": {
 		"files": {
