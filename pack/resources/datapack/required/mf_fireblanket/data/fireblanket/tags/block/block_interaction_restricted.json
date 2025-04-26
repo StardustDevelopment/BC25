@@ -52,8 +52,8 @@
 		"affinity:villager_armature",
 		"affinity:item_transfer_node",
 		"affinity:spirit_integration_apparatus",
-    "cerulean:self_collapsing_cube",
-    "cerulean:oak_gapdoor",
+    	"cerulean:self_collapsing_cube",
+    	"cerulean:oak_gapdoor",
 		"hyphapiracea:hyphal_conductor",
 		"hyphapiracea:oak_conductor",
 		"hyphapiracea:spruce_conductor",
@@ -65,6 +65,13 @@
 		"hyphapiracea:cherry_conductor",
 		"hyphapiracea:bamboo_conductor",
 		"hyphapiracea:crimson_conductor",
-		"hyphapiracea:warped_conductor"
+		"hyphapiracea:warped_conductor",
+		"kawaiidishes:cheese_cake",
+		"kawaiidishes:chocolate_cheese_cake",
+		"kawaiidishes:honey_cheese_cake",
+		"kawaiidishes:apple_pie",
+		"kawaiidishes:sweet_berry_pie",
+		"kawaiidishes:glow_berry_pie",
+		"kawaiidishes:cherry_pie"
 	]
 }
