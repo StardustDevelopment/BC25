@@ -1,2 +1,5518 @@
 [
+	{
+		"id": "electromechanics",
+		"event": "bc25",
+		"name": "Electromechanics",
+		"description": "An addition to the existing Redstone ecosystem mechanically and electrically",
+		"authors": [
+			"75151",
+			"82790",
+			"32555"
+		],
+		"platform": {
+			"project_id": "lcr6Ckb4",
+			"version_id": "2SkavnO9",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/electromechanics/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/electromechanics/screenshot.webp"
+		},
+		"source": "https://github.com/chyzman/chyzyLogistics",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "operation-starcleave",
+		"event": "bc25",
+		"name": "Operation: Starcleave",
+		"description": "Cleave open the sky, and unite Earth with the Heavens.",
+		"authors": [
+			"43734"
+		],
+		"platform": {
+			"project_id": "6EXJCB46",
+			"version_id": "Xeag4mks",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/operation-starcleave/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/operation-starcleave/screenshot.webp"
+		},
+		"source": "https://github.com/Phanastrae/operation_starcleave",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "brewin-and-chewin",
+		"event": "bc25",
+		"name": "Brewin\u0027 And Chewin\u0027",
+		"description": "Fermenting addon for Farmer\u0027s Delight.",
+		"authors": [
+			"51251",
+			"13572"
+		],
+		"platform": {
+			"project_id": "hIu9KJTT",
+			"version_id": "XOeyGw82",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/brewin-and-chewin/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/MerchantPug/BrewinAndChewin/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "bovines-and-buttercups",
+		"event": "bc25",
+		"name": "Bovines and Buttercups (Mooblooms)",
+		"description": "A reimagining of Mojang\u0027s Moobloom mob.",
+		"authors": [
+			"51251",
+			"57057",
+			"16652",
+			"92770"
+		],
+		"platform": {
+			"project_id": "BDg6nMn3",
+			"version_id": "oY2LcucD",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/bovines-and-buttercups/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/bovines-and-buttercups/screenshot.webp"
+		},
+		"source": "https://github.com/GreenhouseModding/bovines-and-buttercups",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "world-comment",
+		"event": "bc25",
+		"name": "World Comment",
+		"description": "Post comments right into the game world, associated with certain locations - an idea similar to Danmaku in videos.",
+		"authors": [
+			"79625"
+		],
+		"platform": {
+			"project_id": "GNAofCJ3",
+			"version_id": "63qjleTu",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/world-comment/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/world-comment/screenshot.webp"
+		},
+		"source": "https://github.com/zbx1425/world-comment",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "breeze-bounce",
+		"event": "bc25",
+		"name": "Breeze Bounce",
+		"description": "Bounce to new heights with Wind-Charged blocks! Inflate them for extra spring, or use them to create crazy obstacle courses.",
+		"authors": [
+			"67600"
+		],
+		"platform": {
+			"project_id": "vBoXEK2I",
+			"version_id": "f2kHCVN6",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/breeze-bounce/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/breeze-bounce/screenshot.webp"
+		},
+		"source": "https://github.com/ChefMooon/breeze-bounce",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "tmyk",
+		"event": "bc25",
+		"name": "TMYK",
+		"description": "The more you know...\nSearch the Minecraft Wiki through chat.",
+		"authors": [
+			"91732"
+		],
+		"platform": {
+			"project_id": "gMhzqGMC",
+			"version_id": "bedPw4dH",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/tmyk/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/fingerguns83/TMYK",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "fallflyingrestrictions",
+		"event": "bc25",
+		"name": "FallFlyingRestrictions",
+		"description": "Changes default behavior of the \"FallFlying\" movement used with Elytras.",
+		"authors": [
+			"41975",
+			"66037"
+		],
+		"platform": {
+			"project_id": "pMqmRqTZ",
+			"version_id": "27wwukLe",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/fallflyingrestrictions/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/JR1811/NeMuelch-FallFlyingRestrictions",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "more-paths",
+		"event": "bc25",
+		"name": "More Paths",
+		"description": "Adds more unique Path Blocks to Minecraft.",
+		"authors": [
+			"55535"
+		],
+		"platform": {
+			"project_id": "o9BYIzF3",
+			"version_id": "KGPEGWPa",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/more-paths/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/more-paths/screenshot.webp"
+		},
+		"source": "https://github.com/rotgruengelb/more_paths",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "anshar",
+		"event": "bc25",
+		"name": "Anshar",
+		"description": "Write yourself into the cosmos with the power of beacons!",
+		"authors": [
+			"86945",
+			"59417",
+			"43364",
+			"82038",
+			"55606",
+			"49838"
+		],
+		"platform": {
+			"project_id": "adcai9DE",
+			"version_id": "DY4BndvK",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/anshar/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/anshar/screenshot.webp"
+		},
+		"source": "https://github.com/Anshar-Eternalis/anshar",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "weird-wares",
+		"event": "bc25",
+		"name": "Weird Wares",
+		"description": "Weird wares for your wacky world! This mod adds various unobtainable and forgotten items, blocks, and features plus a few extras.",
+		"authors": [
+			"15777"
+		],
+		"platform": {
+			"project_id": "8YhM0jrV",
+			"version_id": "peHmJ347",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/weird-wares/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/weird-wares/screenshot.webp"
+		},
+		"source": "https://github.com/VulpixelMC/weird-wares",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "starcaller",
+		"event": "bc25",
+		"name": "Starcaller",
+		"description": "Pull stars from the sky and reshape them just like the old tales. Navigate using named stars. Start a color turf-war. Paint art.",
+		"authors": [
+			"32367"
+		],
+		"platform": {
+			"project_id": "z7IRTW7F",
+			"version_id": "qYSsNyDW",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/starcaller/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/starcaller/screenshot.gif"
+		},
+		"source": "https://github.com/sisby-folk/starcaller",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "fabulously-optimized",
+		"event": "bc25",
+		"name": "Fabulously Optimized",
+		"description": "Beautiful graphics, speedy performance and familiar features in a simple package. 1.21.5 beta!",
+		"authors": [
+			"69977",
+			"56131",
+			"10995",
+			"94313"
+		],
+		"platform": {
+			"project_id": "1KVo5zza",
+			"version_id": null,
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/fabulously-optimized/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/fabulously-optimized/screenshot.webp"
+		},
+		"source": "https://github.com/Fabulously-Optimized/fabulously-optimized/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "allium",
+		"event": "bc25",
+		"name": "Allium",
+		"description": "Lua script loader and API for easy modding",
+		"authors": [
+			"41320"
+		],
+		"platform": {
+			"project_id": "UGyKB0LR",
+			"version_id": "pRfRIRfT",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/allium/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/moongardenmods/allium/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "spirit-vector",
+		"event": "bc25",
+		"name": "Dream Burst Spirit Vector",
+		"description": "Fully customizeable fantasy roller parkour. Fly forth, Spirit Vector!",
+		"authors": [
+			"59417",
+			"43364",
+			"50211"
+		],
+		"platform": {
+			"project_id": "vT1MJIWD",
+			"version_id": "OVIu5ykv",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/spirit-vector/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/spirit-vector/screenshot.png"
+		},
+		"source": "https://github.com/HamaIndustries/spirit-vector",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "peaceful_forager",
+		"event": "bc25",
+		"name": "Peaceful Forager",
+		"description": "A small foraging mod that adds various fruits and nuts and natural minerals. Originally conceptualized for me and my friends, now brought to life for blanketcon to see!",
+		"authors": [
+			"86992"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/project/peaceful-forager",
+			"download_url": "https://github.com/Applebax/peaceful-forager/releases/download/0.1.2/peaceful-forager-0.1.2.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/Applebax/peaceful-forager",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "note_block_studio",
+		"event": "bc25",
+		"name": "Note Block Studio",
+		"description": "An open-source Minecraft music maker!",
+		"authors": [
+			"91972",
+			"39849"
+		],
+		"platform": {
+			"homepage_url": "https://noteblock.studio",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/note_block_studio/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/note_block_studio/screenshot.png"
+		},
+		"source": "https://github.com/OpenNBS/NoteBlockStudio",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "powerchord",
+		"event": "bc25",
+		"name": "PowerChord",
+		"description": "A component-driven RPG instrument system - you know, hunting-horn-likes!",
+		"authors": [
+			"77753"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/powerchord",
+			"download_url": "https://github.com/HestiMae/powerchord/releases/download/v0.3.4/powerchord-0.3.4+1.21.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/powerchord/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/powerchord/screenshot.png"
+		},
+		"source": "https://github.com/HestiMae/powerchord",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "scarves",
+		"event": "bc25",
+		"name": "Scarves",
+		"description": "Comfortable dynamic simulated cloth trinkets",
+		"authors": [
+			"38597"
+		],
+		"platform": {
+			"project_id": "vhY4Cys8",
+			"version_id": "55tRu1MD",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/scarves/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/scarves/screenshot.webp"
+		},
+		"source": "https://github.com/falkreon/Scarves",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "have-another-pretty-particle-yayyyyyyyy",
+		"event": "bc25",
+		"name": "Have Another Pretty Particle. Yayyyyyyyy",
+		"description": "A collection of custom-made particles for use at BlanketCon 2025!",
+		"authors": [
+			"10432"
+		],
+		"platform": {
+			"project_id": "KVSwjhVT",
+			"version_id": "w9ULu8u8",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/have-another-pretty-particle-yayyyyyyyy/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Superkat32/have-another-pretty-particle-yayyyyyyyyy",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "better-leaves",
+		"event": "bc25",
+		"name": "Motschen\u0027s Better Leaves",
+		"description": "Improves the appearance of leaves with high mod compatibility and performance!",
+		"authors": [
+			"11041"
+		],
+		"platform": {
+			"project_id": "uvpymuxq",
+			"version_id": "2AumSLNO",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/better-leaves/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/better-leaves/screenshot.webp"
+		},
+		"source": "https://github.com/TeamMidnightDust/BetterLeavesLite/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "private-horses",
+		"event": "bc25",
+		"name": "Private Horses",
+		"description": "Sick of having your horse, donkey, or mule jacked?\nWith this mod, you can relax — no one but you can ride or leash your animal now!",
+		"authors": [
+			"27672"
+		],
+		"platform": {
+			"project_id": "XQxkI6m0",
+			"version_id": "s924ZT8F",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/private-horses/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/private-horses/screenshot.webp"
+		},
+		"source": "https://github.com/somykOS/Private-Horses",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "shyvvs-trickier-trials",
+		"event": "bc25",
+		"name": "Shyvv\u0027s Trickier Trials",
+		"description": "Making Trial Chambers near you trickier :)",
+		"authors": [
+			"54711"
+		],
+		"platform": {
+			"project_id": "kTiARw3b",
+			"version_id": "boJixYQK",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/shyvvs-trickier-trials/icon.webp",
+			"screenshot": null
+		},
+		"source": null,
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "fabric_binary_search_tool",
+		"event": "bc25",
+		"name": "Fabric Binary Search Tool",
+		"description": "A dependency-aware tool to find the problematic mod",
+		"authors": [
+			"62776"
+		],
+		"platform": {
+			"homepage_url": null,
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/skycatminepokie/FabricBinarySearchTool",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "cerulean",
+		"event": "bc25",
+		"name": "Cerulean",
+		"description": "Stars, automation, trinkets, and a dream...",
+		"authors": [
+			"44584",
+			"50349"
+		],
+		"platform": {
+			"project_id": "a6qSiVxz",
+			"version_id": "UILy9Yvs",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/cerulean/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/cerulean/screenshot.webp"
+		},
+		"source": "https://github.com/jaskarth/cerulean",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "dont-do-that",
+		"event": "bc25",
+		"name": "Don\u0027t Do That",
+		"description": "Stops Minecraft from doing certain annoying things.",
+		"authors": [
+			"75151"
+		],
+		"platform": {
+			"project_id": "FBfbX7OM",
+			"version_id": "4Rj23pHm",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/dont-do-that/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/chyzman/dontDoThat",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "extra-trinkets",
+		"event": "bc25",
+		"name": "Extra Trinkets",
+		"description": "Adds practical slots to Trinkets, so your inventory isn\u0027t as cluttered.",
+		"authors": [
+			"47518",
+			"14718"
+		],
+		"platform": {
+			"project_id": "JLpavzxe",
+			"version_id": "C70azjvC",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/extra-trinkets/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/Teal-Wolf-25-Alt/Extra-Trinkets",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "litavis",
+		"event": "bc25",
+		"name": "Litavis",
+		"description": "A Minecraft Mod based on expanding the Earth Elemental side of Minecraft.",
+		"authors": [
+			"49504"
+		],
+		"platform": {
+			"project_id": "mhPG3DFs",
+			"version_id": "t13qJPCV",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/litavis/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/litavis/screenshot.webp"
+		},
+		"source": "https://github.com/TheFluffycart55/litavis",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pride-moths",
+		"event": "bc25",
+		"name": "Happy Pride Moth!",
+		"description": "Ever wanted to celebrate pride month, but didn\u0027t because there weren\u0027t any moths? Here you go!",
+		"authors": [
+			"62618"
+		],
+		"platform": {
+			"project_id": "z4CDikCJ",
+			"version_id": "IWMGDZAq",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pride-moths/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pride-moths/screenshot.webp"
+		},
+		"source": "https://github.com/DakotaPride/Pride-Moths",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "enchiridion",
+		"event": "bc25",
+		"name": "Enchiridion",
+		"description": "An enchantment rework that categorizes enchantments to be mutually exclusive.",
+		"authors": [
+			"94796",
+			"51251",
+			"57057",
+			"16652",
+			"92770"
+		],
+		"platform": {
+			"project_id": "LXagYH7y",
+			"version_id": "WGynZN4X",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/enchiridion/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/GreenhouseTeam/enchiridion",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "planetarium",
+		"event": "bc25",
+		"name": "Planetarium",
+		"description": "See the real-life solar system at night!",
+		"authors": [
+			"80026",
+			"71872"
+		],
+		"platform": {
+			"project_id": "dBOB3VZD",
+			"version_id": "YTi9Qdfx",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/planetarium/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/planetarium/screenshot.png"
+		},
+		"source": "https://github.com/woodiertexas/planetarium",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pridepack",
+		"event": "bc25",
+		"name": "Pride Pack",
+		"description": "This is an LGBTQ+ Pride Themed Resource Pack made by Pridecraft Studios.",
+		"authors": [
+			"35876",
+			"17428",
+			"71095",
+			"24215",
+			"85230",
+			"55535",
+			"54137"
+		],
+		"platform": {
+			"project_id": "yPbBrzEX",
+			"version_id": "mN8U82Tb",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pridepack/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pridepack/screenshot.png"
+		},
+		"source": "https://git.pridecraft.gay/pridepack",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "borukva-food",
+		"event": "bc25",
+		"name": "Borukva Food",
+		"description": "Server side food, new crops and food",
+		"authors": [
+			"45976",
+			"70988"
+		],
+		"platform": {
+			"project_id": "l4Fz32NE",
+			"version_id": "ZiG84zdV",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/borukva-food/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/borukva-food/screenshot.webp"
+		},
+		"source": "https://github.com/MykhailoOpryshok/Borukva-Food",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "mirror_mod",
+		"event": "bc25",
+		"name": "Mirror Mod",
+		"description": "Adds fully-functional mirrors to Minecraft!",
+		"authors": [
+			"68079"
+		],
+		"platform": {
+			"homepage_url": null,
+			"download_url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.8/mirror-fabric-1.21.1-0.2.8.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/FoundryMC/mirror-mod",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "advanced-networking",
+		"event": "bc25",
+		"name": "Advanced Networking",
+		"description": "Adds systems for programmable transfer of resources",
+		"authors": [
+			"82773"
+		],
+		"platform": {
+			"project_id": "IF0Y4xFw",
+			"version_id": "MYWKPLbl",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/advanced-networking/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/advanced-networking/screenshot.webp"
+		},
+		"source": "https://github.com/MattiDragon/AdvancedNetworking",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "server-cosmetics",
+		"event": "bc25",
+		"name": "Server Cosmetics",
+		"description": "Server side cosmetics system",
+		"authors": [
+			"70988"
+		],
+		"platform": {
+			"project_id": "rpTNWjZH",
+			"version_id": "yHelGWhQ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/server-cosmetics/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Stikulzon/Server-Cosmetics",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "moue_milkshakes",
+		"event": "bc25",
+		"name": "Moue Milkshakes",
+		"description": "Grimace Shakes are/were the big thing. So I thought \"Why the hell not\". Using state-of-the-art methods, you can now brew, *yes* brew, your milkshakes!",
+		"authors": [
+			"43426"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/moue-milkshakes",
+			"download_url": "https://github.com/Stereo528/milkshakes/releases/download/v2.0-bc/moue_milkshakes-2.0+build.47.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/Stereo528/milkshakes",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "simple-durability-tooltip",
+		"event": "bc25",
+		"name": "Simple Durability Tooltip",
+		"description": "Shows the durability tooltip regardless of Advanced Tooltips being enabled ",
+		"authors": [
+			"75478"
+		],
+		"platform": {
+			"project_id": "os6PebrN",
+			"version_id": "RggJyMJ7",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/simple-durability-tooltip/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/simple-durability-tooltip/screenshot.png"
+		},
+		"source": "https://github.com/Infinidoge/simple-durability-tooltip",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "superposition",
+		"event": "bc25",
+		"name": "Superposition",
+		"description": "Expanding Minecraft\u0027s redstone system with the technology to transmit radio waves",
+		"authors": [
+			"25452",
+			"66177"
+		],
+		"platform": {
+			"homepage_url": "https://www.volcanobay.xyz/projects",
+			"download_url": "https://github.com/Volcano-Bay-Studios/superposition/releases/download/0.2.28/superposition-fabric-1.21.1-0.2.28.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/superposition/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/superposition/screenshot.png"
+		},
+		"source": "https://github.com/Volcano-Bay-Studios/superposition",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "brewery",
+		"event": "bc25",
+		"name": "Patbox\u0027s Brewery",
+		"description": "Create alcoholic and non-alcoholic drinks with cauldrons and barrels!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "nr7cSJlY",
+			"version_id": "5YUeDUls",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/brewery/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/brewery/screenshot.png"
+		},
+		"source": "https://github.com/Patbox/brewery",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "gcaps",
+		"event": "bc25",
+		"name": "gCAPS",
+		"description": "Reimplementation of the Gboard CAPS in Minecraft",
+		"authors": [
+			"62594"
+		],
+		"platform": {
+			"project_id": "1bLzboaC",
+			"version_id": "dXK9i7lX",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/gcaps/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/gcaps/screenshot.webp"
+		},
+		"source": "https://github.com/Kenny-Hui/gcaps-fabric",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "necessity",
+		"event": "bc25",
+		"name": "Necessities",
+		"description": "Serious stuff that really should have been in the base game all along (made for modfest)",
+		"authors": [
+			"82247"
+		],
+		"platform": {
+			"project_id": "2YE5dXzq",
+			"version_id": "NxnaCKcE",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/necessity/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/necessity/screenshot.webp"
+		},
+		"source": "https://github.com/ItsFelix5/Necessities",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "crossbow_scoping",
+		"event": "bc25",
+		"name": "Crossbow Scoping",
+		"description": "Aim through spyglasses!",
+		"authors": [
+			"49838"
+		],
+		"platform": {
+			"project_id": "FnccFWhR",
+			"version_id": "fOzf9EGP",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/crossbow_scoping/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/crossbow_scoping/screenshot.png"
+		},
+		"source": "https://github.com/ekulxam/crossbow_scoping",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "maddys_origins",
+		"event": "bc25",
+		"name": "Maddy\u0027s Origins",
+		"description": "A comprehensive rework of Origins, replacing the stock origins with 9* new, varied origins.",
+		"authors": [
+			"49898"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/maddy-origins",
+			"download_url": "https://github.com/Noobulus/Maddy-Origins/releases/download/v1.0.1/maddy-origins-1.0.1.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/maddys_origins/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/maddys_origins/screenshot.png"
+		},
+		"source": "https://github.com/Noobulus/Maddy-Origins/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "worldinajar",
+		"event": "bc25",
+		"name": "World In a Jar",
+		"description": "A snowglobe-inspired block made for builders and survival players alike.",
+		"authors": [
+			"15777"
+		],
+		"platform": {
+			"project_id": "uvdL3H4g",
+			"version_id": "KJETHDMc",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/worldinajar/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/worldinajar/screenshot.png"
+		},
+		"source": "https://github.com/VulpixelMC/world-in-a-jar",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "carnival-cuisine",
+		"event": "bc25",
+		"name": "Carnival Cuisine",
+		"description": "Adds some carnival food and drinks to enjoy for Modfest: Carnival!",
+		"authors": [
+			"89048"
+		],
+		"platform": {
+			"project_id": "q0W2RUFs",
+			"version_id": "puHS294y",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/carnival-cuisine/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/carnival-cuisine/screenshot.png"
+		},
+		"source": "https://github.com/ItsToastCraft/carnival-additions-1.21/tree/main",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "builderdash",
+		"event": "bc25",
+		"name": "Builderdash",
+		"description": "Building-Related Party Minigames - Server Side Only",
+		"authors": [
+			"95272"
+		],
+		"platform": {
+			"project_id": "oIYIZBDT",
+			"version_id": "sAtE3oiW",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/builderdash/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/builderdash/screenshot.png"
+		},
+		"source": "https://github.com/FoundationGames/Builderdash",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pulchra-occultorum",
+		"event": "bc25",
+		"name": "Pulchra Occultorum",
+		"description": "This was a mod all about Victorian Science, Carneval and Occultism. Features are put on hold for now.",
+		"authors": [
+			"66037",
+			"41975",
+			"77096"
+		],
+		"platform": {
+			"project_id": "4vHHqRFc",
+			"version_id": "QovywqsE",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pulchra-occultorum/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pulchra-occultorum/screenshot.webp"
+		},
+		"source": "https://github.com/JR1811/PulchraOccultorum",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "impillagers",
+		"event": "bc25",
+		"name": "Impillagers",
+		"description": "A total swamp overhaul mod with many new (and very quirky) residents to discover.",
+		"authors": [
+			"90112",
+			"21223",
+			"50338",
+			"13019"
+		],
+		"platform": {
+			"project_id": "qTL0SYMP",
+			"version_id": "dXQJwqlV",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/impillagers/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/impillagers/screenshot.png"
+		},
+		"source": "https://github.com/theblindband/Impillagers",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "atta_v",
+		"event": "bc25",
+		"name": "All-Terrain Tripodal Attackers",
+		"description": "Funny walking cubes - Armistice 2.0 but not really",
+		"authors": [
+			"49838"
+		],
+		"platform": {
+			"project_id": "aePcNSjR",
+			"version_id": "ibiSBUVj",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/atta_v/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/atta_v/screenshot.webp"
+		},
+		"source": "https://github.com/ekulxam/atta_v",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "dancerizer",
+		"event": "bc25",
+		"name": "Dancerizer",
+		"description": "Perform taunts and whole dances with new accessories!",
+		"authors": [
+			"25352"
+		],
+		"platform": {
+			"project_id": "hZ4lZ6jX",
+			"version_id": "nZTi8Pqd",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/dancerizer/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/dancerizer/screenshot.webp"
+		},
+		"source": "https://github.com/kleinbox/Dancerizer",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "alchimiae-magicae",
+		"event": "bc25",
+		"name": "Alchimiae Magicae",
+		"description": "Bringing magic back to brewing.",
+		"authors": [
+			"33418"
+		],
+		"platform": {
+			"project_id": "qUKJfi7E",
+			"version_id": "sq84REGl",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/alchimiae-magicae/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/ssblur/alchimiae",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "automobility",
+		"event": "bc25",
+		"name": "Automobility",
+		"description": "Vehicle mod adding customizable and functional cars",
+		"authors": [
+			"95272"
+		],
+		"platform": {
+			"project_id": "rqIsPf9F",
+			"version_id": "vvzu2A6h",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/automobility/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/FoundationGames/Automobility",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "boatism",
+		"event": "bc25",
+		"name": "Boatism",
+		"description": "Add new and fully customizable Boat Engines to Minecraft. Traveling by sea will never be the same again!",
+		"authors": [
+			"41975"
+		],
+		"platform": {
+			"project_id": "XA2EooAt",
+			"version_id": "qI55XaCl",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/boatism/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/boatism/screenshot.webp"
+		},
+		"source": "https://github.com/JR1811/Boatism",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "lilium",
+		"event": "bc25",
+		"name": "Lilium",
+		"description": "An assortment of blocks and items that I felt like adding.",
+		"authors": [
+			"84338"
+		],
+		"platform": {
+			"project_id": "PnKLjkNP",
+			"version_id": "aGeLaqqG",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/lilium/screenshot.webp"
+		},
+		"source": "https://github.com/AutumnalModding/Lilium",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "barkeep",
+		"event": "bc25",
+		"name": "Barkeep",
+		"description": "A cosmetic cocktails mod for decorative bartending. Order up!",
+		"authors": [
+			"69102"
+		],
+		"platform": {
+			"project_id": "TFwl8Z4h",
+			"version_id": "ReGTTDdF",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/barkeep/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/barkeep/screenshot.webp"
+		},
+		"source": "https://github.com/lemmaeof/barkeep",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "colourful-clocks",
+		"event": "bc25",
+		"name": "Colourful Clocks",
+		"description": "Tell time in style with Pocket Watches and Customizable Grandfather Clocks!",
+		"authors": [
+			"67600"
+		],
+		"platform": {
+			"project_id": "h8cGboOg",
+			"version_id": "8DfqBuux",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/colourful-clocks/icon.gif",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/colourful-clocks/screenshot.webp"
+		},
+		"source": "https://github.com/ChefMooon/colourful-clocks",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "particular",
+		"event": "bc25",
+		"name": "Particular ✨",
+		"description": "Enhances Minecraft\u0027s ambience with hand-crafted visual effects like fireflies, falling leaves, and waterfall cascades",
+		"authors": [
+			"86772"
+		],
+		"platform": {
+			"project_id": "B1CcCd9h",
+			"version_id": "3dq7wTCR",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/particular/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/particular/screenshot.gif"
+		},
+		"source": "https://github.com/Chailotl/particular",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "shattered-stopwatch",
+		"event": "bc25",
+		"name": "Shattered Stopwatch",
+		"description": "A broken, time-travelling traversal gadget inspired by physics puzzle platformers and the Super Mario 64 A-Button Challenge.",
+		"authors": [
+			"32367"
+		],
+		"platform": {
+			"project_id": "So5Pd4qV",
+			"version_id": "rLanQsOX",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/shattered-stopwatch/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/shattered-stopwatch/screenshot.gif"
+		},
+		"source": "https://github.com/sisby-folk/shattered-stopwatch",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "charta",
+		"event": "bc25",
+		"name": "Charta",
+		"description": "An extensive card mod for Minecraft.\nMade for Modfest 1.21",
+		"authors": [
+			"43579"
+		],
+		"platform": {
+			"project_id": "sFamPxlk",
+			"version_id": "irurSwX2",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/charta/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/charta/screenshot.webp"
+		},
+		"source": "https://github.com/lucaargolo/charta",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "glide-away",
+		"event": "bc25",
+		"name": "Glide Away!",
+		"description": "Get your Hang Glider and glide away from the dangers! A server side Fabric mod!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "iWkVbeKr",
+			"version_id": "kGu2xAVM",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/glide-away/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/glide-away/screenshot.png"
+		},
+		"source": "https://github.com/Patbox/GlideAway",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "thwackinator",
+		"event": "bc25",
+		"name": "Thwackinator",
+		"description": "New whacky weaponry!",
+		"authors": [
+			"86945",
+			"59417"
+		],
+		"platform": {
+			"project_id": "dMltSin1",
+			"version_id": "OSm0MJdD",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://git.lgmrszd.xyz/Lgmrszd/Thwackinator",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "getdown",
+		"event": "bc25",
+		"name": "GetDown",
+		"description": "Press Button. Get Down. (crawl)",
+		"authors": [
+			"75151"
+		],
+		"platform": {
+			"project_id": "cget0DUO",
+			"version_id": "GiAVlHHE",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/getdown/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/chyzman/getdown",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "extravaganza",
+		"event": "bc25",
+		"name": "Extravaganza!",
+		"description": "Extravaganza! is a mod about adding carnival and festivity goodies, as well as some amusing activities through blocks, entities or items.",
+		"authors": [
+			"61518",
+			"23420",
+			"91746",
+			"10994",
+			"50636"
+		],
+		"platform": {
+			"project_id": "Joiujp4e",
+			"version_id": "GMjSreiT",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/extravaganza/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/extravaganza/screenshot.webp"
+		},
+		"source": "https://github.com/MModding/extravaganza",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "friendship-bracelets",
+		"event": "bc25",
+		"name": "Friendship Bracelets",
+		"description": "Friendship Bracelets to form a bond with your best friend.",
+		"authors": [
+			"97048"
+		],
+		"platform": {
+			"project_id": "WmRJaxMn",
+			"version_id": "a1mc9xRh",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/friendship-bracelets/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/friendship-bracelets/screenshot.webp"
+		},
+		"source": "https://github.com/electricsteve/friendshipBracelets/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "silicate",
+		"event": "bc25",
+		"name": "Silicate",
+		"description": "A library providing powerful client-server-agnostic predicates with a simple API.",
+		"authors": [
+			"51251",
+			"16652",
+			"15777",
+			"92770"
+		],
+		"platform": {
+			"project_id": "vaQ7oWvL",
+			"version_id": "5UiMhb88",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/silicate/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/ModGardenEvent/silicate",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pbwarps",
+		"event": "bc25",
+		"name": "pbwarps",
+		"description": "A simple, but flexible admin-defined warp mod",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "DZ2XMKfr",
+			"version_id": "fV0xWDQJ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/Patbox/pbwarps",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "hide-body-parts",
+		"event": "bc25",
+		"name": "Hide Body Parts",
+		"description": "Use NBT data to hide player body parts.",
+		"authors": [
+			"41975",
+			"66037"
+		],
+		"platform": {
+			"project_id": "soaGz3MF",
+			"version_id": "D9lFCeZ8",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/hide-body-parts/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/hide-body-parts/screenshot.webp"
+		},
+		"source": "https://github.com/JR1811/hide-body-parts-fabric",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "familiar-magic",
+		"event": "bc25",
+		"name": "familiar magic",
+		"description": "a mod for summoning! (much like /tpahere, but for any entities and way more inconvenient)",
+		"authors": [
+			"26197"
+		],
+		"platform": {
+			"project_id": "BF0Jps3E",
+			"version_id": "LlvJAAI0",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/familiar-magic/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/familiar-magic/screenshot.webp"
+		},
+		"source": "https://github.com/afamiliarquiet/familiar-magic",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "familiar-friends",
+		"event": "bc25",
+		"name": "Familiar Friends",
+		"description": "Adds a book that can unlock special pets that grant new abilities",
+		"authors": [
+			"17884"
+		],
+		"platform": {
+			"project_id": "TFBCpGnI",
+			"version_id": "F5rxjYlt",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/familiar-friends/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/familiar-friends/screenshot.png"
+		},
+		"source": "https://github.com/Deadlydiamond98/FamiliarFriends",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "cabbage-glasses",
+		"event": "bc25",
+		"name": "Cabbage Glasses",
+		"description": "A resource pack for Patbox\u0027s Brewery and Cabbage Substances",
+		"authors": [
+			"40144"
+		],
+		"platform": {
+			"project_id": "N5Z6XD09",
+			"version_id": "aw5s5KkS",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/cabbage-glasses/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/cabbage-glasses/screenshot.webp"
+		},
+		"source": "https://github.com/parkouristik93/cabbage-glasses",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "cook-it",
+		"event": "bc25",
+		"name": "Cook It!",
+		"description": "A mod that adds a variety of treats to cook!",
+		"authors": [
+			"89048"
+		],
+		"platform": {
+			"project_id": "QI3Zw2um",
+			"version_id": "Ze4YRs0k",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/cook-it/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/cook-it/screenshot.webp"
+		},
+		"source": "https://github.com/ItsToastCraft/cook-it",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "chitinous_ties",
+		"event": "bc25",
+		"name": "Chitinous Ties",
+		"description": "Player-creatable quests and contracts!",
+		"authors": [
+			"43808",
+			"88057"
+		],
+		"platform": {
+			"project_id": "MkLZoL69",
+			"version_id": "Rlr5SkHk",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/chitinous_ties/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/chitinous_ties/screenshot.png"
+		},
+		"source": "https://git.lunabee.space/chitinous_ties/files.html",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "extended-drawers",
+		"event": "bc25",
+		"name": "Extended Drawers",
+		"description": "Adds drawers and more",
+		"authors": [
+			"82773"
+		],
+		"platform": {
+			"project_id": "AhtxbnpG",
+			"version_id": "7ayZB1fH",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/extended-drawers/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/extended-drawers/screenshot.webp"
+		},
+		"source": "https://github.com/MattiDragon/ExtendedDrawers",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "hollow",
+		"event": "bc25",
+		"name": "Hollow",
+		"description": "A mod about hollow logs and hollow promises",
+		"authors": [
+			"59417",
+			"24215",
+			"14615"
+		],
+		"platform": {
+			"project_id": "EQovXCIt",
+			"version_id": "np31iiOZ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/hollow/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/hollow/screenshot.png"
+		},
+		"source": "https://github.com/SpiritGameStudios/Hollow",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "chinese-ime",
+		"event": "bc25",
+		"name": "Chinese IME",
+		"description": "A Minecraft mod that adds pinyin and jyutping input for typing Chinese characters.",
+		"authors": [
+			"47540"
+		],
+		"platform": {
+			"project_id": "hilng8VR",
+			"version_id": "XyhpanUE",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/chinese-ime/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/chinese-ime/screenshot.webp"
+		},
+		"source": "https://github.com/dooji2/chinese-ime",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "subete-kowasu-no-nara-kuro-ni-nare-old",
+		"event": "bc25",
+		"name": "Bad Apple Shader",
+		"description": "✨ Now working! ✨| This is a shader that makes the game render similarly to \"Bad Apple\"",
+		"authors": [
+			"17428",
+			"71095",
+			"85230"
+		],
+		"platform": {
+			"project_id": "6sOj95GW",
+			"version_id": "SNlpTLtC",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/subete-kowasu-no-nara-kuro-ni-nare-old/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/subete-kowasu-no-nara-kuro-ni-nare-old/screenshot.webp"
+		},
+		"source": "https://github.com/blryface/badapple",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "amarong",
+		"event": "bc25",
+		"name": "Amarong",
+		"description": "Adds a new material called Amarong, handheld \"rubber\" ducks, kaleidoscopes, and rainbow beacons with no redstone required",
+		"authors": [
+			"49838"
+		],
+		"platform": {
+			"project_id": "Pkud4ZgC",
+			"version_id": "IK7oZ3eO",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/amarong/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/amarong/screenshot.png"
+		},
+		"source": "https://github.com/ekulxam/amarong",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "my-nethers-delight-refabricated",
+		"event": "bc25",
+		"name": "My Nether\u0027s Delight Refabricated",
+		"description": "Modern Fabric port of the new Nether addon for Farmer\u0027s Delight.",
+		"authors": [
+			"51251"
+		],
+		"platform": {
+			"project_id": "uIOfYdnw",
+			"version_id": "sqEAS0LT",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/my-nethers-delight-refabricated/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/MerchantPug/MyNethersDelightRefabricated/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "soteria",
+		"event": "bc25",
+		"name": "Soteria",
+		"description": "DBSV Addon: Weapons to save Granbury. Salvation for the forgotten.",
+		"authors": [
+			"59417"
+		],
+		"platform": {
+			"project_id": "iKGgUVoo",
+			"version_id": "HVpNxrud",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/soteria/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/HamaIndustries/soteria",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "village-healthcare",
+		"event": "bc25",
+		"name": "Village Healthcare",
+		"description": "A mod that allows clerics and blacksmiths to heal injured villagers and iron golems.",
+		"authors": [
+			"18174"
+		],
+		"platform": {
+			"project_id": "j23NprwL",
+			"version_id": "L3OfFMN4",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/village-healthcare/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/village-healthcare/screenshot.gif"
+		},
+		"source": "https://github.com/HyperPigeon/VillageHealthcare",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "marksman",
+		"event": "bc25",
+		"name": "Marksman",
+		"description": "Adds coinshots from Ultrakill",
+		"authors": [
+			"42994"
+		],
+		"platform": {
+			"project_id": "joN0iKRG",
+			"version_id": "7e95kDjl",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/marksman/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/marksman/screenshot.webp"
+		},
+		"source": "https://github.com/ThePotatoArchivist/Marksman",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "vivatech",
+		"event": "bc25",
+		"name": "Vivatech",
+		"description": "Classic technologies rethought",
+		"authors": [
+			"41020"
+		],
+		"platform": {
+			"project_id": "Z7LQgxZt",
+			"version_id": "ZGxJ3GPf",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/vivatech/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/vivatech/screenshot.webp"
+		},
+		"source": "https://github.com/falseresync/vivatech",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "affinity",
+		"event": "bc25",
+		"name": "Affinity",
+		"description": "A magic mod themed around natural tech",
+		"authors": [
+			"97250",
+			"28119",
+			"98971",
+			"75151"
+		],
+		"platform": {
+			"project_id": "Y8TA5POy",
+			"version_id": "tMq5wrUP",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/affinity/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/affinity/screenshot.webp"
+		},
+		"source": "https://github.com/wisp-forest/affinity",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "hoofprint",
+		"event": "bc25",
+		"name": "Hoofprint",
+		"description": "A barebones vanilla+ world map, powered by Surveyor.",
+		"authors": [
+			"77753"
+		],
+		"platform": {
+			"project_id": "8O6iJpuJ",
+			"version_id": "7SL16FQr",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/hoofprint/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/hoofprint/screenshot.webp"
+		},
+		"source": "https://github.com/HestiMae/hoofprint",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "festive_frenzy",
+		"event": "bc25",
+		"name": "Festive Frenzy",
+		"description": "A mod that adds various festive decorations such as presents, baubels and tinsel.",
+		"authors": [
+			"18526",
+			"35329"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/festive-frenzy",
+			"download_url": "https://github.com/Now-this-is-crazy/Festive-Frenzy/releases/download/BlanketCon/festive_frenzy-v7.5-blanketcon.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/festive_frenzy/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/festive_frenzy/screenshot.png"
+		},
+		"source": "https://github.com/Now-this-is-crazy/Festive-Frenzy",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polydex-bridge",
+		"event": "bc25",
+		"name": "PolydexBridge",
+		"description": "Brings over recipes from Polydex to EMI for more convenient browsing.",
+		"authors": [
+			"82773"
+		],
+		"platform": {
+			"project_id": "cjSHexOj",
+			"version_id": "1SDiwoUn",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polydex-bridge/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/polydex-bridge/screenshot.webp"
+		},
+		"source": "https://github.com/MattiDragon/PolydexBridge",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "chickensaurs",
+		"event": "bc25",
+		"name": "Chickensaurs",
+		"description": "A mod that adds the predatory descendants of the chicken to the Nether.",
+		"authors": [
+			"77089",
+			"22229",
+			"18174"
+		],
+		"platform": {
+			"project_id": "I3lDQn3Y",
+			"version_id": "8lX4hQa6",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/chickensaurs/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/chickensaurs/screenshot.gif"
+		},
+		"source": "https://github.com/HyperPigeon/chickensaurs",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "asahi",
+		"event": "bc25",
+		"name": "asahi",
+		"description": "Remove jittering of the moving sun caused by client desync!",
+		"authors": [
+			"41320"
+		],
+		"platform": {
+			"project_id": "CPo6Ht5f",
+			"version_id": "MetJtnJ5",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/asahi/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/hugeblank/asahi/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "partnership",
+		"event": "bc25",
+		"name": "Partnership",
+		"description": "Drive ships with partners.\nDefend your port with cannons and explore the world with new ships!",
+		"authors": [
+			"25352"
+		],
+		"platform": {
+			"project_id": "bvQ6cHxn",
+			"version_id": "ufLcpWhk",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/partnership/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/partnership/screenshot.webp"
+		},
+		"source": "https://github.com/tweaked-programs/Partnership",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polaroidcamera",
+		"event": "bc25",
+		"name": "Polaroid Camera ",
+		"description": "A mod that adds a camera that allows players to take pictures and put them on maps. ",
+		"authors": [
+			"18174"
+		],
+		"platform": {
+			"project_id": "9dPDuh0K",
+			"version_id": "EriBIQgx",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polaroidcamera/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/HyperPigeon/PolaroidCamera",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "cc-polymer",
+		"event": "bc25",
+		"name": "Polymer Patch for CC:Tweaked",
+		"description": "ComputerCraft, but server side! A Polymer Patch mod for CC: Tweaked allowing it to work fully server side!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "MfXTuV8J",
+			"version_id": "PJImCQqA",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/cc-polymer/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/cc-polymer/screenshot.webp"
+		},
+		"source": "https://github.com/PolymerPorts/cc-tweaked-patch",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "mapshot",
+		"event": "bc25",
+		"name": "MapShot",
+		"description": "A mod that allows players to take better screenshots of maps.",
+		"authors": [
+			"18174"
+		],
+		"platform": {
+			"project_id": "E01gJWdQ",
+			"version_id": "OWrvvAje",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/mapshot/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/HyperPigeon/MapShot",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "healing-pretty-good",
+		"event": "bc25",
+		"name": "Healing Pretty Good",
+		"description": "Adds RPG-like Heart Drops, Heart Crystals, and Heart Upgrades",
+		"authors": [
+			"17884"
+		],
+		"platform": {
+			"project_id": "XHAKyrZL",
+			"version_id": "RVXXLRm8",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/healing-pretty-good/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/healing-pretty-good/screenshot.webp"
+		},
+		"source": "https://github.com/Deadlydiamond98/HealingPrettyGood1.21",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "canary-safety",
+		"event": "bc25",
+		"name": "Canary",
+		"description": "An early warning of poison in the mines.",
+		"authors": [
+			"71168"
+		],
+		"platform": {
+			"project_id": "iCRO1YNs",
+			"version_id": "ULbobEYj",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/canary-safety/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/devOS-Sanity-Edition/canary",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "barricade",
+		"event": "bc25",
+		"name": "Barricade",
+		"description": "A mod that implements more specific barriers.",
+		"authors": [
+			"51251",
+			"16652",
+			"15777",
+			"92770"
+		],
+		"platform": {
+			"project_id": "kRSR7ZEj",
+			"version_id": "qZbdht7D",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/barricade/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/barricade/screenshot.png"
+		},
+		"source": "https://github.com/ModGardenEvent/barricade",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "beebuddy",
+		"event": "bc25",
+		"name": "Bee Buddies",
+		"description": "Tameable bees and pride bees!",
+		"authors": [
+			"88057"
+		],
+		"platform": {
+			"project_id": "9LrD18LI",
+			"version_id": "82EG4aYV",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/beebuddy/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/beebuddy/screenshot.webp"
+		},
+		"source": "https://git.lunabee.space/beebuddy/files.html",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "combat-amenities",
+		"event": "bc25",
+		"name": "Combat Amenities",
+		"description": "A mod that adds a few small features related to combat, such as a back slot.",
+		"authors": [
+			"67036",
+			"84081"
+		],
+		"platform": {
+			"project_id": "6xkq8JXv",
+			"version_id": "aotvpcuY",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/combat-amenities/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/combat-amenities/screenshot.webp"
+		},
+		"source": "https://github.com/HollowedWanderer/Combat-Amenities",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "portable-crafting",
+		"event": "bc25",
+		"name": "Portable Crafting",
+		"description": "Use crafting stations (tables, smithing, anvils, stonecutters, etc) directly from your inventory.",
+		"authors": [
+			"32367",
+			"77753"
+		],
+		"platform": {
+			"project_id": "qmVRzDCY",
+			"version_id": "smVFxka8",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/portable-crafting/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/portable-crafting/screenshot.gif"
+		},
+		"source": "https://github.com/sisby-folk/portable-crafting-standalone",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "autocut",
+		"event": "bc25",
+		"name": "Autocut",
+		"description": "Automatically cut videos based on your gameplay",
+		"authors": [
+			"62776"
+		],
+		"platform": {
+			"project_id": "DZJzhD8k",
+			"version_id": "LUZrDYlA",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/autocut/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/skycatminepokie/autocut",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pierced",
+		"event": "bc25",
+		"name": "Pierced",
+		"description": "Custom crossbow mod that adds 2 new crossbows and changes how the piercing enchant works to pierce through a percentage of Armor to increase crossbow usage in pvp/pve.",
+		"authors": [
+			"52167",
+			"17361"
+		],
+		"platform": {
+			"project_id": "pHsXR1YM",
+			"version_id": "UJrQhZIT",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pierced/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pierced/screenshot.webp"
+		},
+		"source": "https://github.com/dark-enigma/pierced",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "blocky-bass",
+		"event": "bc25",
+		"name": "Blocky Bass",
+		"description": "Adds Big Mouth Blocky Bass to the game.  Fish him up, feed him a disc, watch him sing!",
+		"authors": [
+			"71168",
+			"95043"
+		],
+		"platform": {
+			"project_id": "6GAOA2BU",
+			"version_id": "E753aVq6",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/blocky-bass/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/blocky-bass/screenshot.png"
+		},
+		"source": "https://github.com/devOS-Sanity-Edition/blocky-bass",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "joy",
+		"event": "bc25",
+		"name": "Joy",
+		"description": "Joy is a Fabric mod built with the core goal of tastefully adding pride to Minecraft, while also porting Pridepack to its own set of decoration.",
+		"authors": [
+			"35876",
+			"55535",
+			"17428",
+			"71095",
+			"24215",
+			"85230",
+			"54137"
+		],
+		"platform": {
+			"project_id": "qwgCXyzw",
+			"version_id": "ftDV31SE",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/joy/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://git.pridecraft.gay/joy",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "magic-8-ball",
+		"event": "bc25",
+		"name": "Magic 8 Ball",
+		"description": "A magic ball that knows the answers to all of your questions.",
+		"authors": [
+			"71168",
+			"95043"
+		],
+		"platform": {
+			"project_id": "eUmV7trt",
+			"version_id": "9MUcF1SV",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/magic-8-ball/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/magic-8-ball/screenshot.png"
+		},
+		"source": "https://github.com/TropheusJ/magic-8-ball",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "taking-a-break",
+		"event": "bc25",
+		"name": "Taking a Break",
+		"description": "This mod allows you to lay on the ground anywhere in your world.",
+		"authors": [
+			"81752"
+		],
+		"platform": {
+			"project_id": "xdTrASAc",
+			"version_id": "XOeAJDwO",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/taking-a-break/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/AnAwesomGuy/taking-a-break",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polychess",
+		"event": "bc25",
+		"name": "PolyChess",
+		"description": "PolyChess is a Polymer-based Fabric mod  that lets you play server-side chess with friends.",
+		"authors": [
+			"54187"
+		],
+		"platform": {
+			"project_id": "n4KHrvqn",
+			"version_id": "LJ9yF6es",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polychess/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/polychess/screenshot.webp"
+		},
+		"source": "https://github.com/SunPhoen1x/PolyChess",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "ubes-delight",
+		"event": "bc25",
+		"name": "Ube\u0027s Delight",
+		"description": "A Farmer’s Delight addon that adds Filipino inspired crops and food.",
+		"authors": [
+			"67600"
+		],
+		"platform": {
+			"project_id": "PYjpoAys",
+			"version_id": "OmzeaunP",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/ubes-delight/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/ubes-delight/screenshot.png"
+		},
+		"source": "https://github.com/ChefMooon/ubes-delight",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "impenduits",
+		"event": "bc25",
+		"name": "Impenduits",
+		"description": "Adds weak forcefields powered by Hearts of the Sea",
+		"authors": [
+			"20161"
+		],
+		"platform": {
+			"project_id": "iYrQWVBW",
+			"version_id": "pFX27AYP",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/impenduits/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/impenduits/screenshot.webp"
+		},
+		"source": "https://github.com/myriantics/impenduits",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "cameratweaks",
+		"event": "bc25",
+		"name": "Camera Tweaks",
+		"description": "A fancy mod with freecam, zoom, fullbright, freelook, no fog and custom third persons!",
+		"authors": [
+			"82247"
+		],
+		"platform": {
+			"project_id": "T1E4i1qj",
+			"version_id": "7eyUvKfv",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/ItsFelix5/CameraTweaks",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "splinecart",
+		"event": "bc25",
+		"name": "Splinecart",
+		"description": "Minecart roller coasters",
+		"authors": [
+			"95272"
+		],
+		"platform": {
+			"project_id": "mAHz905I",
+			"version_id": "PC6u9xFB",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/splinecart/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/splinecart/screenshot.png"
+		},
+		"source": "https://github.com/FoundationGames/Splinecart",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "owo-lib",
+		"event": "bc25",
+		"name": "oωo (owo-lib)",
+		"description": "A general utility, GUI and config library for modding on Fabric and Quilt",
+		"authors": [
+			"75151",
+			"82790",
+			"28119"
+		],
+		"platform": {
+			"project_id": "ccKDOlHs",
+			"version_id": "MufQflLZ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/owo-lib/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/glisco03/owo-lib",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "inline",
+		"event": "bc25",
+		"name": "Inline",
+		"description": "A mod for inline text rendering",
+		"authors": [
+			"99615"
+		],
+		"platform": {
+			"project_id": "fin1PX4m",
+			"version_id": "8jBT4C2k",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/inline/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/inline/screenshot.webp"
+		},
+		"source": "https://github.com/SamsTheNerd/inline",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "explosive-enhancement",
+		"event": "bc25",
+		"name": "Explosive Enhancement",
+		"description": "Makes the explosion animation look cooler.",
+		"authors": [
+			"10432"
+		],
+		"platform": {
+			"project_id": "OSQ8mw2r",
+			"version_id": "LEeJnb8j",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/explosive-enhancement/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/explosive-enhancement/screenshot.gif"
+		},
+		"source": "https://github.com/Superkat32/Explosive-Enhancement",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pesky-seagulls",
+		"event": "bc25",
+		"name": "Pesky Seagulls",
+		"description": "Adds bothersome seagulls",
+		"authors": [
+			"18174"
+		],
+		"platform": {
+			"project_id": "Sy2K2jVY",
+			"version_id": "wsslMxPA",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pesky-seagulls/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pesky-seagulls/screenshot.webp"
+		},
+		"source": "https://github.com/HyperPigeon/pesky-seagulls",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "kawaii-dishes",
+		"event": "bc25",
+		"name": "Kawaii Dishes",
+		"description": "A mod about coffee, maids and food",
+		"authors": [
+			"59306",
+			"84338"
+		],
+		"platform": {
+			"project_id": "v2Vpr5Uf",
+			"version_id": "CYEATgik",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/kawaii-dishes/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/kawaii-dishes/screenshot.webp"
+		},
+		"source": "https://github.com/JheffersonMarques/KawaiiDishes",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "wheel-of-wacky",
+		"event": "bc25",
+		"name": "Wheel of Wacky",
+		"description": "A mod that adds a carnival prize wheel that has the chance to either fabulously reward or horrifically punish players!",
+		"authors": [
+			"77089",
+			"18174"
+		],
+		"platform": {
+			"project_id": "JwRk761J",
+			"version_id": "Y1nSSFIq",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/wheel-of-wacky/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/wheel-of-wacky/screenshot.webp"
+		},
+		"source": "https://github.com/HyperPigeon/WheelOfWacky",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "cabbage-substances",
+		"event": "bc25",
+		"name": "Cabbage Substances",
+		"description": "A little datapack that shows the potential of Patbox\u0027s Brewery custom drinks.",
+		"authors": [
+			"40144"
+		],
+		"platform": {
+			"project_id": "izSO2Rn2",
+			"version_id": "vyOBicNJ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/cabbage-substances/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/cabbage-substances/screenshot.png"
+		},
+		"source": "https://github.com/parkouristik93/cabbage-substances",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "scriptor-magicae",
+		"event": "bc25",
+		"name": "Scriptor Magicae",
+		"description": "Discover and write custom spells. Knowledge is power!",
+		"authors": [
+			"33418"
+		],
+		"platform": {
+			"project_id": "JyJgaOrk",
+			"version_id": "HTYIkgvU",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/scriptor-magicae/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/scriptor-magicae/screenshot.png"
+		},
+		"source": "https://github.com/ssblur/scriptor",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "autowhitelist",
+		"event": "bc25",
+		"name": "AutoWhitelist",
+		"description": "A way to automate the whitelist of a minecraft server based on discord roles",
+		"authors": [
+			"28463"
+		],
+		"platform": {
+			"project_id": "BMaqFQAd",
+			"version_id": "zkJgf8Z7",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/autowhitelist/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Awakened-Redstone/AutoWhitelist",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "buoys",
+		"event": "bc25",
+		"name": "Buoys",
+		"description": "Adds dyeable Buoys that can be placed in water.",
+		"authors": [
+			"55535"
+		],
+		"platform": {
+			"project_id": "dFz831HS",
+			"version_id": "dAVfI3Io",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/buoys/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/buoys/screenshot.webp"
+		},
+		"source": "https://github.com/rotgruengelb/Buoys",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "headpat",
+		"event": "bc25",
+		"name": "Headpat a Friend!",
+		"description": "Give headpats to other players!",
+		"authors": [
+			"69487"
+		],
+		"platform": {
+			"project_id": "vETxChiy",
+			"version_id": "s4qXNcqK",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/headpat/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/headpat/screenshot.gif"
+		},
+		"source": "https://github.com/enjarai/headpats",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "zipline",
+		"event": "bc25",
+		"name": "Zipline",
+		"description": "Satisfactory inspired ziplines in minecraft",
+		"authors": [
+			"10335"
+		],
+		"platform": {
+			"project_id": "crqH8IT5",
+			"version_id": "1Ua8UGe3",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/zipline/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Tomate0613/zipline",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "bouquet",
+		"event": "bc25",
+		"name": "Bouquet",
+		"description": "Companion API for Allium, the Lua Script Loader",
+		"authors": [
+			"41320"
+		],
+		"platform": {
+			"project_id": "cJu5Wd3R",
+			"version_id": "PyJHt2oz",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/bouquet/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/moongardenmods/allium/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "farmers-delight-refabricated",
+		"event": "bc25",
+		"name": "Farmer\u0027s Delight Refabricated",
+		"description": "Modern Fabric port of the cooking and farming mod, \"Farmer\u0027s Delight\"",
+		"authors": [
+			"51251",
+			"81371"
+		],
+		"platform": {
+			"project_id": "7vxePowz",
+			"version_id": "9IKQwpOG",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/farmers-delight-refabricated/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/MehVahdJukaar/FarmersDelight",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "desolated_pastels",
+		"event": "bc25",
+		"name": "Desolated Pastels",
+		"description": "Desolated Pastels is a dimensions mod, with a pastel vibe to add taste, and a few mallards to meet your way.",
+		"authors": [
+			"51777"
+		],
+		"platform": {
+			"homepage_url": null,
+			"download_url": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/releases/download/v0.1.0-blanketcon25-demo.6/demo.6.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/desolated_pastels/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/desolated_pastels/screenshot.png"
+		},
+		"source": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/tree/kt/1.21.1/blanketcon25",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "note_block_world",
+		"event": "bc25",
+		"name": "Note Block World",
+		"description": "A website to discover, share and listen to note block music from all over the world!",
+		"authors": [
+			"91972",
+			"39849"
+		],
+		"platform": {
+			"homepage_url": "https://noteblock.world",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/note_block_world/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/note_block_world/screenshot.png"
+		},
+		"source": "https://github.com/OpenNBS/NoteBlockWorld",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "wandering-rana",
+		"event": "bc25",
+		"name": "Wandering Rana",
+		"description": "Readds the Rana mob from classic minecraft, in form of a wandering trader that sells various frog related items, such as her boots and hat",
+		"authors": [
+			"16652"
+		],
+		"platform": {
+			"project_id": "5R8Qlz9L",
+			"version_id": "NDpyqaxa",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/wandering-rana/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/wandering-rana/screenshot.webp"
+		},
+		"source": "https://github.com/UltrusBot/Wandering-Rana",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "blur-plus",
+		"event": "bc25",
+		"name": "Blur+",
+		"description": "Spices up the boring vanilla blur effect – featuring animations, colors and lots of customizability!",
+		"authors": [
+			"11041"
+		],
+		"platform": {
+			"project_id": "NK39zBp2",
+			"version_id": "VLTarY59",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/blur-plus/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/blur-plus/screenshot.webp"
+		},
+		"source": "https://github.com/Motschen/Blur",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pinit",
+		"event": "bc25",
+		"name": "PinIt",
+		"description": "A Minecraft address book.",
+		"authors": [
+			"91732"
+		],
+		"platform": {
+			"project_id": "oRe5MIWJ",
+			"version_id": null,
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pinit/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/fingerguns83/pinit",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "petworks",
+		"event": "bc25",
+		"name": "Petworks",
+		"description": "Collars and guises for furry friends. Nya~",
+		"authors": [
+			"17428"
+		],
+		"platform": {
+			"project_id": "dAKfA83i",
+			"version_id": "LiuycFVC",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/petworks/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Modflower/Petworks",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "stellaris",
+		"event": "bc25",
+		"name": "Stellaris",
+		"description": "Discover the next gen space mod!",
+		"authors": [
+			"39113",
+			"20249"
+		],
+		"platform": {
+			"project_id": "ItTQpuBn",
+			"version_id": "NBOma4nY",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/stellaris/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/stellaris/screenshot.webp"
+		},
+		"source": "https://github.com/st0x0ef/stellaris/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "breakerplacer",
+		"event": "bc25",
+		"name": "Block Breaker \u0026 Block Placer",
+		"description": "2 new vanilla-friendly redstone blocks; One for breaking and one for placing.",
+		"authors": [
+			"75630"
+		],
+		"platform": {
+			"project_id": "DqAjYL65",
+			"version_id": "OiP9i6Tp",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/breakerplacer/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Khazoda/block-breaker-placer/tree/latest-stable",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "basicweapons",
+		"event": "bc25",
+		"name": "Basic Weapons",
+		"description": "Adds vanilla+ weaponry - no extra fluff or sparkles",
+		"authors": [
+			"75630"
+		],
+		"platform": {
+			"project_id": "sc2Pektv",
+			"version_id": "Rv0ndf7T",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/basicweapons/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/basicweapons/screenshot.png"
+		},
+		"source": "https://github.com/Khazoda/basic-weapons",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "item-descriptions",
+		"event": "bc25",
+		"name": "Item Descriptions",
+		"description": "This mod adds unique descriptions for all  blocks, items, and mobs - built in a way that makes it easy to add modded content.",
+		"authors": [
+			"12775"
+		],
+		"platform": {
+			"project_id": "UaizcMKP",
+			"version_id": "6CaoNgET",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/item-descriptions/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/item-descriptions/screenshot.webp"
+		},
+		"source": "https://github.com/cassiancc/Item-Descriptions",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "trailier-tales",
+		"event": "bc25",
+		"name": "Trailier Tales",
+		"description": "Overhauls the Trails \u0026 Tales update, adding features and improving existing ones.",
+		"authors": [
+			"39582",
+			"16380",
+			"55118"
+		],
+		"platform": {
+			"project_id": "9xTQM0ci",
+			"version_id": "V4jtOncN",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/trailier-tales/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/trailier-tales/screenshot.webp"
+		},
+		"source": "https://github.com/FrozenBlock/TrailierTales",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "sunglasses",
+		"event": "bc25",
+		"name": "Sunglasses",
+		"description": "Adds wearable sunglasses to the game.",
+		"authors": [
+			"72832"
+		],
+		"platform": {
+			"project_id": "P1u9z9xS",
+			"version_id": "SCv6WFQb",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/sunglasses/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/sunglasses/screenshot.webp"
+		},
+		"source": "https://github.com/leahbuhbee/sunglasses",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "frights-delight",
+		"event": "bc25",
+		"name": "Fright\u0027s Delight",
+		"description": "A Farmer’s Delight addon that adds food made from hostile mob drops. Dishes are created with a “Horror” theme, consume with caution.",
+		"authors": [
+			"67600"
+		],
+		"platform": {
+			"project_id": "awWvXlb2",
+			"version_id": "BHEWVjxa",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/frights-delight/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/frights-delight/screenshot.png"
+		},
+		"source": "https://github.com/ChefMooon/frights-delight",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "bronze",
+		"event": "bc25",
+		"name": "Bronze",
+		"description": "A new use for copper - bronze weapons, armor, tools \u0026 more",
+		"authors": [
+			"75630"
+		],
+		"platform": {
+			"project_id": "6pVlXMty",
+			"version_id": "sFyJCnkY",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/bronze/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/bronze/screenshot.png"
+		},
+		"source": "https://github.com/Khazoda/bronze",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "rapscallions-and-rockhoppers",
+		"event": "bc25",
+		"name": "Rapscallions and Rockhoppers (Penguins)",
+		"description": "A reimagining of Mojang\u0027s Penguin mob.",
+		"authors": [
+			"94796",
+			"51251",
+			"57057",
+			"16652",
+			"92770"
+		],
+		"platform": {
+			"project_id": "9pGITjpO",
+			"version_id": "UaMaxpI4",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/rapscallions-and-rockhoppers/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/rapscallions-and-rockhoppers/screenshot.webp"
+		},
+		"source": "https://github.com/GreenhouseTeam/rapscallions-and-rockhoppers",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "city_vehicles_automobility_addon",
+		"event": "bc25",
+		"name": "City Vehicles (Automobility Addon)",
+		"description": "An addon for Automobility adding buses",
+		"authors": [
+			"95272"
+		],
+		"platform": {
+			"homepage_url": "https://github.com/FoundationGames/City-Vehicles-Example-Addon",
+			"download_url": "https://github.com/FoundationGames/City-Vehicles-Example-Addon/releases/download/1.2%2B1.21.1/city_vehicles-1.2+1.21.1.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/FoundationGames/City-Vehicles-Example-Addon",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "confetti-stuff",
+		"event": "bc25",
+		"name": "Confetti Stuff",
+		"description": "Adds silly confetti related items and blocks 🎉",
+		"authors": [
+			"10335"
+		],
+		"platform": {
+			"project_id": "6yBwpkox",
+			"version_id": "WMgOdN5R",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/confetti-stuff/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/confetti-stuff/screenshot.png"
+		},
+		"source": "https://github.com/Tomate0613/confetti-stuff",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "variant-swap",
+		"event": "bc25",
+		"name": "Variant Swap",
+		"description": "Quickly cycle through block and item variants by holding a key and scrolling your mouse wheel (works with mods too!)",
+		"authors": [
+			"47540"
+		],
+		"platform": {
+			"project_id": "kZa4oOL0",
+			"version_id": "d8whks7R",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/variant-swap/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/variant-swap/screenshot.webp"
+		},
+		"source": "https://github.com/dooji2/variant-swap",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "minopp",
+		"event": "bc25",
+		"name": "Mino++",
+		"description": "Recreation of a certain popular card game in Minecraft!",
+		"authors": [
+			"79625"
+		],
+		"platform": {
+			"project_id": "4QitwNm0",
+			"version_id": "vacpt3Kt",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/minopp/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/minopp/screenshot.png"
+		},
+		"source": "https://github.com/zbx1425/minopp",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "paladins-furniture",
+		"event": "bc25",
+		"name": "Paladin\u0027s Furniture Mod",
+		"description": "A Modern Furniture mod for Minecraft where things are functional!",
+		"authors": [
+			"22037"
+		],
+		"platform": {
+			"project_id": "SISz7Qd3",
+			"version_id": "qh3D1rjU",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/paladins-furniture/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/paladins-furniture/screenshot.png"
+		},
+		"source": "https://github.com/UnlikePaladin/paladins-furniture",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "mod-descriptions",
+		"event": "bc25",
+		"name": "Mod Descriptions",
+		"description": "An add-on for Item Descriptions that adds additional descriptions for various mods.",
+		"authors": [
+			"12775"
+		],
+		"platform": {
+			"project_id": "DkF7ssGR",
+			"version_id": "fPUTBa7v",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/mod-descriptions/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/mod-descriptions/screenshot.webp"
+		},
+		"source": "https://github.com/cassiancc/Mod-Descriptions/issues",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "taccorps-trinkets",
+		"event": "bc25",
+		"name": "TacCorp\u0027s Trinkets!",
+		"description": "A mod for all your crystalline, decorative or damage-dealing needs!",
+		"authors": [
+			"15947",
+			"21898"
+		],
+		"platform": {
+			"project_id": "VHCyA05Z",
+			"version_id": "3IM3qn7Q",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/taccorps-trinkets/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/TheTaciturnOne/TacCorpsTrinketsMain",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "breakingbedrock",
+		"event": "bc25",
+		"name": "Breaking Bedrock",
+		"description": "Allow bedrock to be mined with a netherite pickaxe!",
+		"authors": [
+			"81752"
+		],
+		"platform": {
+			"project_id": "s0tNTkDN",
+			"version_id": "Z6K1bLcr",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/breakingbedrock/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/AnAwesomGuy/breakingbedrock/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "mrpack4server",
+		"event": "bc25",
+		"name": "mrpack4server",
+		"description": "A tool to easily install and load mrpack / modrinth based modpacks on any Minecraft server hosting!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"homepage_url": "https://github.com/Patbox/mrpack4server",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/mrpack4server/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/mrpack4server/screenshot.png"
+		},
+		"source": "https://github.com/Patbox/mrpack4server",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "berry-bounty",
+		"event": "bc25",
+		"name": "Berry Bounty",
+		"description": "Special berries that can be eaten for special effects!",
+		"authors": [
+			"18804",
+			"59417"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/berry-bounty",
+			"download_url": "https://github.com/jvuong4/Berry-Delight/releases/download/Minecraft/berry_bounty-1.0.1.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/berry-bounty/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/HamaIndustries/Berry-Bounty",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "missing-wilds",
+		"event": "bc25",
+		"name": "Missing Wilds",
+		"description": "Adds the features that were scrapped from the Wild Update",
+		"authors": [
+			"16652"
+		],
+		"platform": {
+			"project_id": "Nw0MStSd",
+			"version_id": "gokV67bZ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/missing-wilds/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/missing-wilds/screenshot.webp"
+		},
+		"source": "https://github.com/UltrusBot/missing-wilds",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pumpkin-pie-delight",
+		"event": "bc25",
+		"name": "Pumpkin Pie Delight",
+		"description": "A Farmer\u0027s Delight addon that makes pumpkin pies placeable and sliceable",
+		"authors": [
+			"86772"
+		],
+		"platform": {
+			"project_id": "AhcCiL7x",
+			"version_id": "Cvc7c7rN",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pumpkin-pie-delight/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pumpkin-pie-delight/screenshot.webp"
+		},
+		"source": "https://github.com/Chailotl/pumpkin-pie",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "klaxon",
+		"event": "bc25",
+		"name": "KLAXON",
+		"description": "WIP corporate-themed tech mod for Fabric",
+		"authors": [
+			"20161"
+		],
+		"platform": {
+			"project_id": "3d6VT9PT",
+			"version_id": "kzA1eczf",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/klaxon/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/klaxon/screenshot.png"
+		},
+		"source": "https://github.com/myriantics/klaxon",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "rods-from-god",
+		"event": "bc25",
+		"name": "Rods from God",
+		"description": "Miscellaneous superweapons for Modfest 1.21",
+		"authors": [
+			"49838"
+		],
+		"platform": {
+			"project_id": "lfJQNrlz",
+			"version_id": "Ncm43f5k",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/rods-from-god/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/rods-from-god/screenshot.webp"
+		},
+		"source": "https://github.com/ekulxam/rods_from_god",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "moddedwiki",
+		"event": "bc25",
+		"name": "Modded Wiki",
+		"description": "Open wiki instance for all things modded Minecraft",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"homepage_url": "https://modded.wiki/",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/moddedwiki/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/moddedwiki/screenshot.png"
+		},
+		"source": null,
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "just_enough_opinions_podcast",
+		"event": "bc25",
+		"name": "Just Enough Opinions Podcast",
+		"description": "Just Enough Opinions is a podcast themed around modded Minecraft. Listen in to us record another episode of it live during the event directly on the server!",
+		"authors": [
+			"52987",
+			"80506",
+			"38626"
+		],
+		"platform": {
+			"homepage_url": "https://youtube.com/@justenoughopinionspodcast",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": null,
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "playercontainers",
+		"event": "bc25",
+		"name": "Player Containers",
+		"description": "A (work-in-progress) mod that lets you store other players in items!",
+		"authors": [
+			"35525",
+			"78692"
+		],
+		"platform": {
+			"project_id": "NDh54aZy",
+			"version_id": "O7S9m1cd",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/playercontainers/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/playercontainers/screenshot.webp"
+		},
+		"source": "https://github.com/chromonym/PlayerContainer",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "snapper",
+		"event": "bc25",
+		"name": "Snapper",
+		"description": "Screenshots, made simple",
+		"authors": [
+			"59417",
+			"24215",
+			"14615"
+		],
+		"platform": {
+			"project_id": "MZQyESDC",
+			"version_id": "IoIblJnm",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/snapper/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/snapper/screenshot.png"
+		},
+		"source": "https://github.com/SpiritGameStudios/Snapper",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "monthofswords",
+		"event": "bc25",
+		"name": "Month Of Swords",
+		"description": "Adding a sword a day all month for Swordtember",
+		"authors": [
+			"99615"
+		],
+		"platform": {
+			"project_id": "XezKDvhL",
+			"version_id": "feNys87f",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/monthofswords/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/SamsTheNerd/monthofswords/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "mod_garden",
+		"event": "bc25",
+		"name": "Mod Garden",
+		"description": "A Minecraft Modding event designed for long term projects.",
+		"authors": [
+			"51251",
+			"57057",
+			"16652",
+			"15777"
+		],
+		"platform": {
+			"homepage_url": "https://modgarden.net",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/mod_garden/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/mod_garden/screenshot.png"
+		},
+		"source": "https://github.com/ModGardenEvent",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "minegrapht",
+		"event": "bc25",
+		"name": "Minegrapht",
+		"description": "A graph network relating Minecraft mods",
+		"authors": [
+			"99615"
+		],
+		"platform": {
+			"homepage_url": "https://github.com/SamsTheNerd/minegraphtmods/",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/SamsTheNerd/minegraphtmods/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "accessories",
+		"event": "bc25",
+		"name": "Accessories",
+		"description": "A extendable and data-driven Accessory Mod for Minecraft",
+		"authors": [
+			"75151",
+			"82790",
+			"32555"
+		],
+		"platform": {
+			"project_id": "jtmvUHXj",
+			"version_id": "OkEXRo1t",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/accessories/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/accessories/screenshot.webp"
+		},
+		"source": "https://github.com/wisp-forest/accessories/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "sentient_pants",
+		"event": "bc25",
+		"name": "Sentient Pants",
+		"description": "Adds the Sentient Pants leggings enchantment, idea by @eightsidedsquare.",
+		"authors": [
+			"49838"
+		],
+		"platform": {
+			"project_id": "5I3BEJRO",
+			"version_id": "KKVI7nBn",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/sentient_pants/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/ekulxam/sentient_pants",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "plushables",
+		"event": "bc25",
+		"name": "Plushables",
+		"description": "Bring cute plushies into your home",
+		"authors": [
+			"75630",
+			"80204"
+		],
+		"platform": {
+			"project_id": "bpUgmHBo",
+			"version_id": "qws6gNYG",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/plushables/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/plushables/screenshot.png"
+		},
+		"source": "https://github.com/Khazoda/Plushables",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "hyphapiracea",
+		"event": "bc25",
+		"name": "HyphaPiracea",
+		"description": "Channel the Garden\u0027s Rot; Steal the Works of the Worlds; Bridge the Gap",
+		"authors": [
+			"43734"
+		],
+		"platform": {
+			"project_id": "AfIa2f3W",
+			"version_id": "dWAD8I2h",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/hyphapiracea/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/hyphapiracea/screenshot.webp"
+		},
+		"source": "https://github.com/Phanastrae/hyphapiracea",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polydecorations",
+		"event": "bc25",
+		"name": "PolyDecorations",
+		"description": "Decorate your world! A server side furniture / decorations mod!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "5710VC7f",
+			"version_id": "R5oq1hmE",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polydecorations/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/polydecorations/screenshot.png"
+		},
+		"source": "https://github.com/Patbox/PolyDecorations",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "oxide",
+		"event": "bc25",
+		"name": "Oxide",
+		"description": "Industrial decorum and related entropic forces.",
+		"authors": [
+			"47221",
+			"98787"
+		],
+		"platform": {
+			"project_id": "mz1R5Wsg",
+			"version_id": "dqTUqct3",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/oxide/icon.gif",
+			"screenshot": null
+		},
+		"source": "https://github.com/AstralOrdana/oxide",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "basic-storage",
+		"event": "bc25",
+		"name": "Basic Storage",
+		"description": "Drawer-style, vanilla-friendly mass item storage",
+		"authors": [
+			"75630"
+		],
+		"platform": {
+			"project_id": "NMOanmPo",
+			"version_id": "cDBQNNrq",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/basic-storage/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/basic-storage/screenshot.png"
+		},
+		"source": "https://github.com/Khazoda/basic-storage",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "jsonpatcher",
+		"event": "bc25",
+		"name": "JsonPatcher",
+		"description": "A tool for patching minecrafts json files, without overrding them, using a custom DSL",
+		"authors": [
+			"82773"
+		],
+		"platform": {
+			"project_id": "qlXnlZLG",
+			"version_id": "V0pEwWCD",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/jsonpatcher/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/MattiDragon/JsonPatcher",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "sooperdooperscooper",
+		"event": "bc25",
+		"name": "SooperDooperScooper",
+		"description": "Take the brains and put them somewhere else",
+		"authors": [
+			"91732"
+		],
+		"platform": {
+			"project_id": "QmqUXexw",
+			"version_id": "dGhSMFry",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/sooperdooperscooper/icon.jpg",
+			"screenshot": null
+		},
+		"source": "https://github.com/fingerguns83/sooperdooperscooper",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "default-components",
+		"event": "bc25",
+		"name": "Default Components",
+		"description": "Add, remove and change default item components. Data driven and improved mod support, can modify selected or all items",
+		"authors": [
+			"28463"
+		],
+		"platform": {
+			"project_id": "ReIHZWEq",
+			"version_id": "LN7frPPW",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/default-components/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/default-components/screenshot.png"
+		},
+		"source": "https://github.com/Awakened-Redstone/default-components",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "illusionable",
+		"event": "bc25",
+		"name": "Illusionable",
+		"description": "Minecraft Fabric mod, which introduces an unstable state of mind",
+		"authors": [
+			"41975"
+		],
+		"platform": {
+			"project_id": "LEwEPjZz",
+			"version_id": "4n9BzePa",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/illusionable/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/illusionable/screenshot.png"
+		},
+		"source": "https://github.com/JR1811/Illusionable",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "krender",
+		"event": "bc25",
+		"name": "KRender",
+		"description": "Cross-platform Minecraft rendering abstraction",
+		"authors": [
+			"51251",
+			"92770"
+		],
+		"platform": {
+			"homepage_url": "https://github.com/Kneelawk/KRender",
+			"download_url": "https://github.com/MerchantCalico/KRenderBC25Showcase/releases/download/1.1.4/krendershowcase-1.1.4.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/krender/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/MerchantPug/KRenderBC25Showcase/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "rounded_mod",
+		"event": "bc25",
+		"name": "Rounded",
+		"description": "Vanilla+ additions to round out the base game",
+		"authors": [
+			"77089"
+		],
+		"platform": {
+			"project_id": "mOxEDNxy",
+			"version_id": "5qDGJBUI",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/rounded_mod/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/rounded_mod/screenshot.webp"
+		},
+		"source": "https://github.com/lumiscosity/rounded",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "wearthat",
+		"event": "bc25",
+		"name": "WearThat",
+		"description": "Why shouldn\u0027t you be able to wear that?",
+		"authors": [
+			"75151"
+		],
+		"platform": {
+			"project_id": "FT20RvJM",
+			"version_id": "JiK4cErN",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/wearthat/icon.gif",
+			"screenshot": null
+		},
+		"source": "https://github.com/chyzman/wearThat",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "armorstandeditor",
+		"event": "bc25",
+		"name": "Armor Stand Editor",
+		"description": "Pose and modify your armor stand with ease!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "Ef9ZREBZ",
+			"version_id": "ZzePnCo3",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/armorstandeditor/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/armorstandeditor/screenshot.png"
+		},
+		"source": "https://github.com/Patbox/ArmorStandEditor",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "omnicrossbow",
+		"event": "bc25",
+		"name": "OmniCrossbow",
+		"description": "Launch every item from a crossbow, with a multitude of custom effects!",
+		"authors": [
+			"42994"
+		],
+		"platform": {
+			"project_id": "TxqFWfQR",
+			"version_id": "Z0EuuG59",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/omnicrossbow/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/omnicrossbow/screenshot.png"
+		},
+		"source": "https://github.com/ThePotatoArchivist/OmniCrossbow/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "honque",
+		"event": "bc25",
+		"name": "Honque",
+		"description": "clown nose",
+		"authors": [
+			"59417"
+		],
+		"platform": {
+			"project_id": "xqSLPzRa",
+			"version_id": "856EM88M",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/honque/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/honque/screenshot.png"
+		},
+		"source": "https://github.com/HamaIndustries/honque",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polymania",
+		"event": "bc25",
+		"name": "Polymania",
+		"description": "Server side perfected. A kitchen-sinky modpack, allowing for fully modded experience without installing a single mod on the client.",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "gDvfyRyQ",
+			"version_id": null,
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polymania/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/polymania/screenshot.webp"
+		},
+		"source": "https://github.com/Patbox/polymania",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pirate-radio",
+		"event": "bc25",
+		"name": "Pirate Radio",
+		"description": "A TTS-based FM pirate radio simulator in Minecraft! Uses real FM simulation, with some practical approximations.",
+		"authors": [
+			"47299"
+		],
+		"platform": {
+			"project_id": "EXRJRBon",
+			"version_id": "9thRejlF",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pirate-radio/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pirate-radio/screenshot.webp"
+		},
+		"source": "https://soniex2.autistic.space/git-repos/fmsim.git/tree/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "ppetp",
+		"event": "bc25",
+		"name": "PPeTP",
+		"description": "No longer shall you lose your pets! Fixes dog/pet teleportation",
+		"authors": [
+			"63459"
+		],
+		"platform": {
+			"project_id": "KbPewBWv",
+			"version_id": "kpP7rflC",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/ppetp/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/ppetp/screenshot.png"
+		},
+		"source": "https://github.com/TheEpicBlock/PPeTP",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polysit",
+		"event": "bc25",
+		"name": "Polysit",
+		"description": "A server-side sit mod for Quilt \u0026 Fabric",
+		"authors": [
+			"17428"
+		],
+		"platform": {
+			"project_id": "G9eJHDO2",
+			"version_id": "mspC2wDR",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polysit/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/polysit/screenshot.webp"
+		},
+		"source": "https://github.com/Modflower/polysit",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "its-as-shrimple-as-that",
+		"event": "bc25",
+		"name": "It\u0027s as Shrimple as That",
+		"description": "A shrimple mod about everyone\u0027s favorite crustaceans.",
+		"authors": [
+			"71168",
+			"95043"
+		],
+		"platform": {
+			"project_id": "GW9EtJVI",
+			"version_id": "hsN81mrJ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/its-as-shrimple-as-that/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/its-as-shrimple-as-that/screenshot.webp"
+		},
+		"source": "https://github.com/TropheusJ/its-as-shrimple-as-that",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "mirthdew-encore",
+		"event": "bc25",
+		"name": "Mirthdew Encore",
+		"description": "Delve into the Dreams of the Dead.\nFill those Spirits with boundless Mirth.\nBring an End to their stagnation, with one final Encore.",
+		"authors": [
+			"43734"
+		],
+		"platform": {
+			"project_id": "LFMwgWDl",
+			"version_id": "9q7FZj9N",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/mirthdew-encore/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/mirthdew-encore/screenshot.webp"
+		},
+		"source": "https://github.com/Phanastrae/mirthdew_encore",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "neomtr",
+		"event": "bc25",
+		"name": "NeoMTR",
+		"description": "Fully-automatic and realistic railway system. This is a fork of Minecraft Transit Railway v3.",
+		"authors": [
+			"79625"
+		],
+		"platform": {
+			"project_id": "xilU2EKS",
+			"version_id": "ZJvO1wvJ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/neomtr/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/neomtr/screenshot.webp"
+		},
+		"source": "ZJvO1wvJ",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "music-moods",
+		"event": "bc25",
+		"name": "Music Moods",
+		"description": "Configure how music \u0026 sound are handled.",
+		"authors": [
+			"17428"
+		],
+		"platform": {
+			"project_id": "z23qey0b",
+			"version_id": "Dslu5lG8",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/music-moods/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/music-moods/screenshot.png"
+		},
+		"source": "https://github.com/the-glitch-network/music-moods",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "toads-toolbox",
+		"event": "bc25",
+		"name": "Toad\u0027s Toolbox",
+		"description": "Adds several new equipment items that you can find across your world!",
+		"authors": [
+			"15131"
+		],
+		"platform": {
+			"project_id": "oEF9RHv7",
+			"version_id": "LQw7FdHr",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/toads-toolbox/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/toads-toolbox/screenshot.webp"
+		},
+		"source": "https://github.com/supertoady/toads-toolbox-1.21.1",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "pridegui",
+		"event": "bc25",
+		"name": "Pride GUI",
+		"description": "This is an LGBTQ+ pride themed GUI resource pack made by Pridecraft Studios.",
+		"authors": [
+			"35876",
+			"17428",
+			"71095",
+			"24215",
+			"85230",
+			"65387",
+			"54137"
+		],
+		"platform": {
+			"project_id": "6mcKx2Pb",
+			"version_id": "XPOSJZ3E",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/pridegui/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/pridegui/screenshot.png"
+		},
+		"source": "https://git.pridecraft.gay/pridegui",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "coretechs",
+		"event": "bc25",
+		"name": "Coretechs",
+		"description": "A standalone serverside tech mod",
+		"authors": [
+			"30915"
+		],
+		"platform": {
+			"project_id": "HGibxeOj",
+			"version_id": "44f9cPrR",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/coretechs/icon.png",
+			"screenshot": null
+		},
+		"source": "https://git.ailur.dev/arzumify/coretechs",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "trickster",
+		"event": "bc25",
+		"name": "Trickster",
+		"description": "Learn magic and create spells from scratch. The only limit is your creativity!",
+		"authors": [
+			"69487",
+			"77271"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/trickster",
+			"download_url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.7/trickster-2.0.0-beta.17-blanketcon.7.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/trickster/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/trickster/screenshot.png"
+		},
+		"source": "https://github.com/enjarai/trickster",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "phonos",
+		"event": "bc25",
+		"name": "Phonos",
+		"description": "Broadcast sound throughout your Minecraft World!",
+		"authors": [
+			"14340",
+			"95272",
+			"27930"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/phonos",
+			"download_url": "https://github.com/Layers-of-Railways/Phonos/releases/download/1.0.0-beta.29%2B1.21.1/phonos-1.0.0-beta.29+fabric-1.21.1.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/phonos/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/Layers-of-Railways/Phonos/",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "boids",
+		"event": "bc25",
+		"name": "Boids",
+		"description": "Boids simulation for flocking fish 🐟",
+		"authors": [
+			"10335"
+		],
+		"platform": {
+			"project_id": "2OckSy74",
+			"version_id": "aiZEd0aD",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/boids/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/boids/screenshot.png"
+		},
+		"source": "https://github.com/Tomate0613/boids",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "ouch",
+		"event": "bc25",
+		"name": "Ouch!",
+		"description": "Customisable, server side damage indicator! For Fabric",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "nbxqFJCy",
+			"version_id": "rq1lty2d",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/ouch/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/ouch/screenshot.png"
+		},
+		"source": "https://github.com/patbox/ouch",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "crag",
+		"event": "bc25",
+		"name": "Crag",
+		"description": "A mod about combat utility, exploration, and features with depth, centered in the nether.",
+		"authors": [
+			"62844"
+		],
+		"platform": {
+			"project_id": "KY9rdreZ",
+			"version_id": "lHXIevXO",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/crag/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/HollowedWanderer/Crag",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "surveyor",
+		"event": "bc25",
+		"name": "Surveyor Map Framework",
+		"description": "Unified API, networking, and save data for map mods.",
+		"authors": [
+			"77753",
+			"32367"
+		],
+		"platform": {
+			"project_id": "4KjqhPc9",
+			"version_id": "O3tZIYTa",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/surveyor/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/surveyor/screenshot.gif"
+		},
+		"source": "https://github.com/sisby-folk/surveyor",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "flw-vanillin",
+		"event": "bc25",
+		"name": "Vanillin",
+		"description": "Instanced rendering for entities and block entities using Flywheel",
+		"authors": [
+			"76891"
+		],
+		"platform": {
+			"project_id": "6qTrsXCy",
+			"version_id": "JvVNmEal",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/flw-vanillin/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Engine-Room/Flywheel",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "bundled_",
+		"event": "bc25",
+		"name": "Bundled",
+		"description": "Reduces the size of unstackable items in bundles. Also adds a crafting recipe and tags for bundle manipulation.",
+		"authors": [
+			"15947"
+		],
+		"platform": {
+			"project_id": "oXHZMQxl",
+			"version_id": "wP3Thb8c",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/bundled_/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/bundled_/screenshot.png"
+		},
+		"source": "https://github.com/TheTrueYak/bundled",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "raccoons-rabies",
+		"event": "bc25",
+		"name": "Raccoons \u0026 Rabies",
+		"description": "Adding Raccoons and a way to weaponise them!",
+		"authors": [
+			"15947",
+			"55473",
+			"80791"
+		],
+		"platform": {
+			"project_id": "45m4jAcu",
+			"version_id": "PFYUctHG",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/raccoons-rabies/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/raccoons-rabies/screenshot.png"
+		},
+		"source": "https://github.com/CordicusC/Raccoons-Rabies",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polydex",
+		"event": "bc25",
+		"name": "Polydex",
+		"description": "Target block/entity tooltip and recipes in one ui mod for servers!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "m5NB7FJE",
+			"version_id": "rC5LgjE1",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polydex/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/polydex/screenshot.png"
+		},
+		"source": "https://github.com/Patbox/polydex",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "subtle-effects",
+		"event": "bc25",
+		"name": "Subtle Effects",
+		"description": "Adding many new subtle details through particles and a few sounds",
+		"authors": [
+			"39113"
+		],
+		"platform": {
+			"project_id": "4q8UOK1d",
+			"version_id": "A2RRE67H",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/subtle-effects/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/subtle-effects/screenshot.webp"
+		},
+		"source": "https://github.com/MincraftEinstein/SubtleEffects",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "cantilever",
+		"event": "bc25",
+		"name": "Cantilever",
+		"description": "No-nonsense Minecraft ↔ Discord bridge",
+		"authors": [
+			"59417",
+			"24215",
+			"14615"
+		],
+		"platform": {
+			"project_id": "cKIu99Cf",
+			"version_id": null,
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/cantilever/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/cantilever/screenshot.webp"
+		},
+		"source": "https://github.com/SpiritGameStudios/Cantilever",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "map-album",
+		"event": "bc25",
+		"name": "Map Album",
+		"description": "Adds a new item that allows players to store and view large amounts of maps!",
+		"authors": [
+			"18174"
+		],
+		"platform": {
+			"project_id": "k040zVg5",
+			"version_id": "Pr1d1b1V",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/map-album/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/map-album/screenshot.gif"
+		},
+		"source": "https://github.com/HyperPigeon/MapAlbum",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "wilder-wild",
+		"event": "bc25",
+		"name": "Wilder Wild",
+		"description": "This mod aims to upgrade the Wild Update!",
+		"authors": [
+			"39582",
+			"69347",
+			"16380",
+			"45633"
+		],
+		"platform": {
+			"project_id": "AtHRJSUW",
+			"version_id": "TWG3NbzH",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/wilder-wild/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/wilder-wild/screenshot.png"
+		},
+		"source": "https://github.com/FrozenBlock/WilderWild",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "animated-loading-screen",
+		"event": "bc25",
+		"name": "Animated loading screen",
+		"description": "Changes the Minecraft loading screen to the Animated Minecraft Dungeons version",
+		"authors": [
+			"65345"
+		],
+		"platform": {
+			"project_id": "cGHt9WgV",
+			"version_id": "cNuiBAE3",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/animated-loading-screen/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/cheyao/animated-logo",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "decorative",
+		"event": "bc25",
+		"name": "Decorative",
+		"description": "Adds many cool new decorations to minecraft",
+		"authors": [
+			"11041"
+		],
+		"platform": {
+			"project_id": "O7pXTXac",
+			"version_id": "8qdhpgiP",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/decorative/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/decorative/screenshot.webp"
+		},
+		"source": "https://github.com/TeamMidnightDust/Decorative",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "amys-industrious-mod",
+		"event": "bc25",
+		"name": "Amy\u0027s Industrious Mod",
+		"description": "A mod all about adding friendly industrial resources like Rubber and Cotton, as well as fun blocks, tools and toys to add some flavor to your game!",
+		"authors": [
+			"86992"
+		],
+		"platform": {
+			"project_id": "qDPkkwh3",
+			"version_id": "DdLs31aI",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/amys-industrious-mod/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/amys-industrious-mod/screenshot.webp"
+		},
+		"source": "https://github.com/chyzman/chyzyLogistics",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "armisteel",
+		"event": "bc25",
+		"name": "Armisteel",
+		"description": "Fabric port of the decoration blocks from Armistice: the Peace Engines",
+		"authors": [
+			"59417",
+			"50211",
+			"14615",
+			"24215"
+		],
+		"platform": {
+			"project_id": "LpUpHsT0",
+			"version_id": "eJNNgGdr",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/armisteel/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/armisteel/screenshot.webp"
+		},
+		"source": "https://github.com/HamaIndustries/armisteel",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "hackcraft",
+		"event": "bc25",
+		"name": "Hackcraft",
+		"description": "An event to encourage teens to write mods!",
+		"authors": [
+			"65345"
+		],
+		"platform": {
+			"homepage_url": "https://hackcraft.hackclub.com/",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": null,
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "plushiez",
+		"event": "bc25",
+		"name": "plushiez",
+		"description": "cute plushies to craft and collect!",
+		"authors": [
+			"78743"
+		],
+		"platform": {
+			"project_id": "sTMY3k2M",
+			"version_id": "amXJanpf",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/plushiez/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/plushiez/screenshot.webp"
+		},
+		"source": "https://github.com/medecoole/pushiez/tree/1.21.1",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "yeet",
+		"event": "bc25",
+		"name": "Yeet",
+		"description": "A mod about throwing things.",
+		"authors": [
+			"71168"
+		],
+		"platform": {
+			"project_id": "oJBq6bNW",
+			"version_id": "jy9id5FF",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/yeet/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/yeet/screenshot.png"
+		},
+		"source": "https://github.com/TropheusJ/yeet",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "splashfox",
+		"event": "bc25",
+		"name": "SplashFox",
+		"description": "Displays an animated bouncy blobfox on Minecraft loading screen",
+		"authors": [
+			"62594"
+		],
+		"platform": {
+			"project_id": "a59NK2Js",
+			"version_id": "jIfPkg4x",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/splashfox/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/splashfox/screenshot.png"
+		},
+		"source": "https://github.com/Kenny-Hui/SplashFox",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "tidal-waves",
+		"event": "bc25",
+		"name": "Tidal",
+		"description": "Adds ambient tidal waves to beaches and oceans!",
+		"authors": [
+			"10432"
+		],
+		"platform": {
+			"project_id": "QsiPPta0",
+			"version_id": "Rh86Cb7C",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/tidal-waves/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/tidal-waves/screenshot.webp"
+		},
+		"source": "https://github.com/Superkat32/Tidal",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "this-rocks",
+		"event": "bc25",
+		"name": "This Rocks!",
+		"description": "Adds little rocks, sticks, pinecones, seashells and starfish to your world to make it feel more natural.",
+		"authors": [
+			"11041"
+		],
+		"platform": {
+			"project_id": "Sb5ypgDP",
+			"version_id": "UZHukeyT",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/this-rocks/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/this-rocks/screenshot.png"
+		},
+		"source": "https://github.com/TeamMidnightDust/ThisRocks",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "polyfactory",
+		"event": "bc25",
+		"name": "PolyFactory",
+		"description": "Let\u0027s build a factory! A tech mod for your Minecraft server!",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "MikpSrAF",
+			"version_id": "EysgX1e4",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/polyfactory/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/polyfactory/screenshot.png"
+		},
+		"source": "https://github.com/patbox/PolyFactory",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "borukva-food-exotic",
+		"event": "bc25",
+		"name": "Borukva Food Exotic",
+		"description": "This mod is an addon for the Borukva Food mod and adds several new types of trees, fruits, vegetables and berries.",
+		"authors": [
+			"54187"
+		],
+		"platform": {
+			"project_id": "odwLjifj",
+			"version_id": "ugcb1Bbo",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/borukva-food-exotic/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/borukva-food-exotic/screenshot.webp"
+		},
+		"source": "https://github.com/SunPhoen1x/Borukva-Food-Exotic",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "inventory-tabs",
+		"event": "bc25",
+		"name": "Inventory Tabs",
+		"description": "Allows swapping to other in-world screens (blocks, entities, etc) via tabs. A fourth-generation rewrite of CakeWhip\u0027s InventoryTabs.",
+		"authors": [
+			"32367"
+		],
+		"platform": {
+			"project_id": "VD1aynYU",
+			"version_id": "bg89rglV",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/inventory-tabs/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/inventory-tabs/screenshot.webp"
+		},
+		"source": "https://github.com/sisby-folk/inventory-tabs",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "crystalline",
+		"event": "bc25",
+		"name": "Crystalline",
+		"description": "Crystaline adds the divider, a both melee and ranged based weapon with a amethyst theme!\nEnjoy The Chaos!",
+		"authors": [
+			"17873",
+			"24392"
+		],
+		"platform": {
+			"project_id": "inf45z9L",
+			"version_id": "9oiQOylI",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/crystalline/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/InfinityFarzad/Crystalline",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "wandering-wizardry",
+		"event": "bc25",
+		"name": "Wandering Wizardry",
+		"description": "Sculk based magic and new exploration opportunities",
+		"authors": [
+			"51251",
+			"57057",
+			"17428",
+			"33085",
+			"32306",
+			"95043"
+		],
+		"platform": {
+			"project_id": "6eWropFc",
+			"version_id": "kEmwCfUU",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/wandering-wizardry/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/Sweet-Berry-Collective/Wandering-Wizardry",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "simple-resource-loader",
+		"event": "bc25",
+		"name": "Simple Resource Loader",
+		"description": "Simple global / modpack resource pack and data pack loader. No configuration, just few folders.",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "5e65FGXQ",
+			"version_id": "IEbD337h",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/simple-resource-loader/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/Patbox/simple-resource-loader",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "hibernal-herbs",
+		"event": "bc25",
+		"name": "Hibernal Herbs",
+		"description": "Hibernal Herbs celebrates the holidays with a little bit of mystic arts! Collect herbs and other ingredients to make the perfect holiday feast!",
+		"authors": [
+			"62618"
+		],
+		"platform": {
+			"project_id": "8fBUTFL3",
+			"version_id": "s8IIqKaQ",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/hibernal-herbs/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/DakotaPride/Hibernal-Herbs",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "colorful-lanterns",
+		"event": "bc25",
+		"name": "Colorful Lanterns",
+		"description": "New Colorful Lanterns",
+		"authors": [
+			"54187"
+		],
+		"platform": {
+			"project_id": "ZOLn67wl",
+			"version_id": "aXnuj3iB",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/colorful-lanterns/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/colorful-lanterns/screenshot.webp"
+		},
+		"source": "https://github.com/SunPhoen1x/Colorful-Lanterns",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "nix-minecraft",
+		"event": "bc25",
+		"name": "nix-minecraft",
+		"description": "Packaging Minecraft servers for Nix, and a module for running servers on NixOS",
+		"authors": [
+			"75478"
+		],
+		"platform": {
+			"homepage_url": "https://github.com/Infinidoge/nix-minecraft",
+			"download_url": null,
+			"type": "other"
+		},
+		"images": {
+			"icon": null,
+			"screenshot": null
+		},
+		"source": "https://github.com/Infinidoge/nix-minecraft",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "thoroughfabric",
+		"event": "bc25",
+		"name": "Thoroughfabric",
+		"description": "\"The beaten path is the safest, but the traffic\u0027s terrible.\"",
+		"authors": [
+			"91732"
+		],
+		"platform": {
+			"project_id": "98yN1fkj",
+			"version_id": "OAQdkaIt",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/thoroughfabric/icon.jpg",
+			"screenshot": null
+		},
+		"source": "https://github.com/fingerguns83/Thoroughfabric",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "primordia",
+		"event": "bc25",
+		"name": "Primordia",
+		"description": "A full Minecraft Game Expansion following the RPG, Survival Theme\n\nAll Right\u0027s Reserved For Nebula Studios",
+		"authors": [
+			"79464",
+			"80771",
+			"24392",
+			"61085",
+			"58439"
+		],
+		"platform": {
+			"project_id": "K767Fsel",
+			"version_id": "PSKUyqru",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/primordia/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/Volcan-MC/primordia/tree/master",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "sleep-warp-updated",
+		"event": "bc25",
+		"name": "SleepWarp (Updated)",
+		"description": "Accelerates time when sleeping instead of skipping directly to day. Fork of SleepWarp updated to latest versions.",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "DlSXkZVT",
+			"version_id": "LzlGw3Uq",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/sleep-warp-updated/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/Patbox/SleepWarp",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "bugvortex",
+		"event": "bc25",
+		"name": "Vortex",
+		"description": "Up-and-coming mod rethinking TARDIS traversal",
+		"authors": [
+			"24782"
+		],
+		"platform": {
+			"project_id": "orUrVv1n",
+			"version_id": "oqACoGgV",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/bugvortex/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/bugvortex/screenshot.webp"
+		},
+		"source": "https://gitlab.com/Bug1312/vortex",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "immersivemc",
+		"event": "bc25",
+		"name": "ImmersiveMC",
+		"description": "Makes Minecraft more immersive!",
+		"authors": [
+			"58215"
+		],
+		"platform": {
+			"homepage_url": "https://modrinth.com/mod/XJ9is6vj",
+			"download_url": "https://github.com/hammy275/immersive-mc/releases/download/v1.5.9-modfest/immersivemc-1.5.9-modfest-1.21.1-fabric.jar",
+			"type": "other"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/immersivemc/icon.png",
+			"screenshot": null
+		},
+		"source": "https://github.com/hammy275/immersive-mc",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "snapshotmc",
+		"event": "bc25",
+		"name": "Snapshot MC",
+		"description": "snapshotMC is a project that constantly updates just like Minecraft while keeping the vanilla feel",
+		"authors": [
+			"14629",
+			"29002",
+			"73607"
+		],
+		"platform": {
+			"project_id": "p03jQngE",
+			"version_id": "FpDarMfd",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/snapshotmc/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/realmegasteve/snapshotmc",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "the-legend-of-steve",
+		"event": "bc25",
+		"name": "The Legend of Steve",
+		"description": "Just another Legend of Zelda mod",
+		"authors": [
+			"17884"
+		],
+		"platform": {
+			"project_id": "T95oH9Gx",
+			"version_id": "wxTlUI5m",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/the-legend-of-steve/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/the-legend-of-steve/screenshot.png"
+		},
+		"source": "https://github.com/Deadlydiamond98/TheLegendOfMinecraftBlanketCon",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "life-size-bdubs",
+		"event": "bc25",
+		"name": "Life-Size Bdubs",
+		"description": "Befriend a life-size replica of BDoubleO100(Bdubs)! Or add your own friends with data-driven variants! Made for ModFest 1.21!",
+		"authors": [
+			"10432"
+		],
+		"platform": {
+			"project_id": "3KnJVIlK",
+			"version_id": "Dx2sPtGa",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/life-size-bdubs/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/life-size-bdubs/screenshot.webp"
+		},
+		"source": "https://github.com/Superkat32/LifesizeBdubs",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "simple-update-checker",
+		"event": "bc25",
+		"name": "Simple Update Checker",
+		"description": "Simple modpack update checker for Modrinth. Works client side and server side",
+		"authors": [
+			"98189"
+		],
+		"platform": {
+			"project_id": "s5pYJlew",
+			"version_id": "eq4nXrYR",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/simple-update-checker/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/simple-update-checker/screenshot.png"
+		},
+		"source": "https://github.com/Patbox/simple-update-checker",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "templates-2",
+		"event": "bc25",
+		"name": "Templates 2",
+		"description": "Retexturable blocks powered by the Fabric Rendering API",
+		"authors": [
+			"33344"
+		],
+		"platform": {
+			"project_id": "cL15qXuP",
+			"version_id": "k1KUqPNU",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/templates-2/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/templates-2/screenshot.webp"
+		},
+		"source": "https://github.com/quat1024/templates-mod",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "fletching-expanded",
+		"event": "bc25",
+		"name": "Fletching Expanded",
+		"description": "A full fletching revamp, adding a use for the fletching table, new arrow types, new ranged enchanting, and more!",
+		"authors": [
+			"15131"
+		],
+		"platform": {
+			"project_id": "LkL7pDnr",
+			"version_id": "9GtExgtt",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/fletching-expanded/icon.png",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/fletching-expanded/screenshot.webp"
+		},
+		"source": "https://github.com/supertoady/fletching-expanded-1.21.1",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "shuttfup",
+		"event": "bc25",
+		"name": "Stfu",
+		"description": "A mod that fixes some annoyances and speeds up your game!",
+		"authors": [
+			"82247"
+		],
+		"platform": {
+			"project_id": "Rg9WdvvR",
+			"version_id": "RgKv0JDa",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/shuttfup/icon.webp",
+			"screenshot": "https://modfest.net/pfimages/submission/bc25/shuttfup/screenshot.png"
+		},
+		"source": "https://github.com/ItsFelix5/Stfu",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	},
+	{
+		"id": "oceanic-weaponry",
+		"event": "bc25",
+		"name": "Oceanic Weaponry",
+		"description": "This mod adds a few weapons themed around the ocean",
+		"authors": [
+			"89193",
+			"45264"
+		],
+		"platform": {
+			"project_id": "DCsu3bOQ",
+			"version_id": "U3vM4gRl",
+			"type": "modrinth"
+		},
+		"images": {
+			"icon": "https://modfest.net/pfimages/submission/bc25/oceanic-weaponry/icon.webp",
+			"screenshot": null
+		},
+		"source": "https://github.com/TheSneaked/OC",
+		"awards": {
+			"theme": [],
+			"extra": []
+		}
+	}
 ]
