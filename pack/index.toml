@@ -107,6 +107,9 @@ file = "config/pfm.json"
 file = "config/polymer/common.json"
 
 [[files]]
+file = "config/portable_crafting.toml"
+
+[[files]]
 file = "config/quickerconnectbutton.json5"
 
 [[files]]
@@ -152,6 +155,9 @@ file = "config/styledplayerlist/config.json"
 file = "config/styledplayerlist/styles/default.json"
 
 [[files]]
+file = "config/subtle_effects/general.toml"
+
+[[files]]
 file = "config/surveyor.toml"
 
 [[files]]
@@ -170,10 +176,10 @@ file = "config/vanillin.json"
 file = "config/waila/blacklist.json5"
 
 [[files]]
-file = "config/waila/waila.json"
+file = "config/waila/waila.json5"
 
 [[files]]
-file = "config/waila/waila_plugins.json"
+file = "config/waila/waila_plugins.json5"
 
 [[files]]
 file = "config/wilderwild/block.json5"
@@ -194,7 +200,7 @@ file = "jsonpatcher/global_patches/assets/gen_assets.jsonpatch"
 file = "jsonpatcher/scripts/make_items.jsonpatch"
 
 [[files]]
-file = "mods/Apoli-2.12.0-alpha.17+mc.1.21.1-blanketcon5.jar"
+file = "mods/Apoli-2.12.0-alpha.17+mc.1.21.1-blanketcon6.jar"
 
 [[files]]
 file = "mods/accessories-tc-layer.pw.toml"
@@ -214,10 +220,6 @@ metafile = true
 
 [[files]]
 file = "mods/armorstandeditor.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/axiom-client.pw.toml"
 metafile = true
 
 [[files]]
@@ -297,7 +299,7 @@ file = "mods/ferrite-core.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fireblanket-0.7.8+1.21.1.jar"
+file = "mods/fireblanket-0.7.12+1.21.1.jar"
 
 [[files]]
 file = "mods/glide-away.pw.toml"
@@ -333,9 +335,6 @@ metafile = true
 [[files]]
 file = "mods/jamlib.pw.toml"
 metafile = true
-
-[[files]]
-file = "mods/kawaii-dishes-1.13-beta12.jar"
 
 [[files]]
 file = "mods/lavender.pw.toml"
@@ -374,7 +373,25 @@ file = "mods/moreaxolotlvariantsapi-common.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/necessities-1.1-1.21.1.jar"
+
+[[files]]
 file = "mods/now-playing-fabric-1.5.13+stereomerge+1.21.jar"
+
+[[files]]
+file = "mods/oneoffs-bobbyallowlist-1.3.1.jar"
+
+[[files]]
+file = "mods/oneoffs-hideservermessages-1.3.1.jar"
+
+[[files]]
+file = "mods/oneoffs-lib-1.3.1.jar"
+
+[[files]]
+file = "mods/oneoffs-quickfov-1.3.1.jar"
+
+[[files]]
+file = "mods/oneoffs-spectatorheads-1.3.1.jar"
 
 [[files]]
 file = "mods/origins.pw.toml"
@@ -424,6 +441,9 @@ metafile = true
 [[files]]
 file = "mods/scattered-shards.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/schedule-placeholder-1.0.0.jar"
 
 [[files]]
 file = "mods/searchables.pw.toml"
@@ -506,12 +526,7 @@ file = "mods/tmyk.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/veil-fabric-1-21-1-1-0-1-bc1-jar.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/worldedit-client.pw.toml"
-metafile = true
+file = "mods/veil-fabric-1.21.1-1.0.1-bc2.jar"
 
 [[files]]
 file = "mods/worldedit-server.pw.toml"
@@ -724,6 +739,9 @@ file = "resources/common/required/bovines_cow_variants/pack.mcmeta"
 
 [[files]]
 file = "resources/common/required/bovines_cow_variants/pack.png"
+
+[[files]]
+file = "resources/common/required/charta.zip"
 
 [[files]]
 file = "resources/common/required/lifesizeparticipants/assets/lifesizeparticipants/textures/bdubs/afamiliarquiet.png"
@@ -981,6 +999,9 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/ta
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/testing_waters.ogg"
 
 [[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/the_ruins.ogg"
+
+[[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/stereo/unstable_transmission.ogg"
 
 [[files]]
@@ -994,6 +1015,9 @@ file = "resources/common/required/mf_music/assets/modfest/sounds/music/take_your
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/testing_waters.ogg"
+
+[[files]]
+file = "resources/common/required/mf_music/assets/modfest/sounds/music/the_ruins.ogg"
 
 [[files]]
 file = "resources/common/required/mf_music/assets/modfest/sounds/music/unstable_transmission.ogg"
@@ -1242,6 +1266,9 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/take
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/testing_waters.json"
 
 [[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/the_ruins.json"
+
+[[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/stereo/unstable_transmission.json"
 
 [[files]]
@@ -1255,6 +1282,9 @@ file = "resources/common/required/mf_music/data/modfest/jukebox_song/take_your_t
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/testing_waters.json"
+
+[[files]]
+file = "resources/common/required/mf_music/data/modfest/jukebox_song/the_ruins.json"
 
 [[files]]
 file = "resources/common/required/mf_music/data/modfest/jukebox_song/unstable_transmission.json"
@@ -1353,6 +1383,12 @@ file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/d
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_front.png"
 
 [[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_mini_backing.png"
+
+[[files]]
+file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/dragonfruit_mini_front.png"
+
+[[files]]
 file = "resources/common/required/mf_shards/assets/modfest/textures/gui/shards/lychee_backing.png"
 
 [[files]]
@@ -1413,6 +1449,60 @@ file = "resources/datapack/required/a_lie_in_time/data/scattered_shards/default_
 file = "resources/datapack/required/a_lie_in_time/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/army_base.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/backpack_base.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/chicken_shoes.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/fov_glasses.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/gloves_base.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/hat_base.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/nature_suit.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/pineapple_head.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/snail_shoes.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/base_with_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/black_with_white_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/gray_with_white_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/light_gray_with_black_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/pink_with_white_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/red_with_white_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/white_with_black_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/data/accessories/custom_renderer/wool_programming_socks/white_with_pink_strips.json"
+
+[[files]]
+file = "resources/datapack/required/accessories-data-driven-renderers/pack.mcmeta"
+
+[[files]]
 file = "resources/datapack/required/additional_scarf_slots/data/trinkets/entities/scarves_integrations.json"
 
 [[files]]
@@ -1453,6 +1543,18 @@ file = "resources/datapack/required/barricade-example/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/barricade-example/pack.png"
+
+[[files]]
+file = "resources/datapack/required/builderdash_portals/data/blanketcon25/game_portals/pictionary.json"
+
+[[files]]
+file = "resources/datapack/required/builderdash_portals/data/blanketcon25/game_portals/telephone.json"
+
+[[files]]
+file = "resources/datapack/required/builderdash_portals/data/blanketcon25/game_portals/versus.json"
+
+[[files]]
+file = "resources/datapack/required/builderdash_portals/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/bundled_item_weight_examples/data/bundled/tags/item/cannot_nest.json"
@@ -1500,6 +1602,15 @@ file = "resources/datapack/required/enchiridion_anti_smuggle/data/enchiridion/en
 file = "resources/datapack/required/enchiridion_anti_smuggle/pack.mcmeta"
 
 [[files]]
+file = "resources/datapack/required/enchiridion_combat_trial_minigame/data/blanketcon25/loot_table/enchiridion/combat_chamber_kill.json"
+
+[[files]]
+file = "resources/datapack/required/enchiridion_combat_trial_minigame/data/blanketcon25/loot_table/enchiridion/combat_chamber_vault.json"
+
+[[files]]
+file = "resources/datapack/required/enchiridion_combat_trial_minigame/pack.mcmeta"
+
+[[files]]
 file = "resources/datapack/required/legendofsteve/data/zeldacraft/loot_table/blocks/loot_grass.json"
 
 [[files]]
@@ -1537,6 +1648,12 @@ file = "resources/datapack/required/mf_spell_dimension/data/bc25/dimension_type/
 
 [[files]]
 file = "resources/datapack/required/mf_spell_dimension/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/oxide_biome_pack/data/minecraft/worldgen/biome/oxide_wasteland.json"
+
+[[files]]
+file = "resources/datapack/required/oxide_biome_pack/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/common.json"
@@ -1578,12 +1695,6 @@ file = "resources/datapack/required/pvpisland_loot/data/bc25/loot_table/chests/u
 file = "resources/datapack/required/pvpisland_loot/pack.mcmeta"
 
 [[files]]
-file = "resources/datapack/required/restricted_interactions/data/fireblanket/tags/block/block_interaction_restricted.json"
-
-[[files]]
-file = "resources/datapack/required/restricted_interactions/pack.mcmeta"
-
-[[files]]
 file = "resources/datapack/required/scriptor_demo/data/scriptor/scriptor/actions/give_shard.json"
 
 [[files]]
@@ -1591,6 +1702,12 @@ file = "resources/datapack/required/scriptor_demo/data/scriptor/tags/block/do_no
 
 [[files]]
 file = "resources/datapack/required/scriptor_demo/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/shrimp_blocker/data/barricade/tags/entity_type/blocked_by_passive_barrier.json"
+
+[[files]]
+file = "resources/datapack/required/shrimp_blocker/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/thwackinator_extra/data/thwackinator/tags/block/bouncy_blocks.json"
@@ -2007,6 +2124,126 @@ file = "resources/resourcepack/required/Shantell-Sans.zip"
 file = "resources/resourcepack/required/Unsanded-1.1.1-custom.zip"
 
 [[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_banana.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_black.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_blue.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_brown.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_coral.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_fortgreen.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_gray.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_green.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_lime.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_maroon.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_nonbinary.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_olive.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_orange.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_purple.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_red.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_saturated_yellow.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_tan.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_white.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amongus_yellow.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/models/item/amoungus_base.json"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_banana.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_black.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_blue.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_brown.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_coral.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_fortgreen.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_gray.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_green.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_lime.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_maroon.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_nonbinary.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_olive.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_orange.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_purple.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_red.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_saturated_yellow.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_tan.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_white.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/assets/accessories/textures/item/amongus_yellow.png"
+
+[[files]]
+file = "resources/resourcepack/required/accessories-custom-models/pack.mcmeta"
+
+[[files]]
 file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/autowhitelist.png"
 
 [[files]]
@@ -2029,6 +2266,12 @@ file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icon
 
 [[files]]
 file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/mrpack4server.png"
+
+[[files]]
+file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/note_block_studio.png"
+
+[[files]]
+file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/note_block_world.png"
 
 [[files]]
 file = "resources/resourcepack/required/blanketcon-extra-icons/assets/extra-icons/textures/item/polymania.png"
@@ -2056,6 +2299,21 @@ file = "resources/resourcepack/required/blanketcon-patches/assets/worldcomment/t
 
 [[files]]
 file = "resources/resourcepack/required/blanketcon-patches/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/blanketcon-splashes/assets/joy/texts/splashes.txt"
+
+[[files]]
+file = "resources/resourcepack/required/blanketcon-splashes/assets/minecraft/texts/splashes.txt"
+
+[[files]]
+file = "resources/resourcepack/required/blanketcon-splashes/assets/trailiertales/texts/splashes.txt"
+
+[[files]]
+file = "resources/resourcepack/required/blanketcon-splashes/assets/wilderwild/texts/splashes.txt"
+
+[[files]]
+file = "resources/resourcepack/required/blanketcon-splashes/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/chinese-ime-models/assets/mtrsteamloco/eyecandies/fence.json"
@@ -2103,16 +2361,124 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtr/mtr_custom_resou
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds.json"
 
 [[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/door_close_ann.ogg"
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_bes_next.ogg"
 
 [[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/door_open_bell.ogg"
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_cac_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_chd_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_chd_next_specdep.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_foc_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_grp_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_jur_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/ewl_jur_next_specdep.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_boe_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_boe_next_specdep.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_cap_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_cap_next_specdep.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_dun_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_grp_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_res_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_res_next_specdep.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/ann/nsl_voc_next.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/airhigh.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/brakefreq.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/brakevol.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/doorcls.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/dooropn.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/loop.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor0.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor1.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor2.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor3.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor4.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor5.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor6.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor7.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor8.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/motor9.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/point.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/powerfreq.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/powervol.csv"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/rub.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/run.ogg"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix1500/sound.cfg"
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/airhigh.ogg"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/airzero.ogg"
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/brakefreq.csv"
@@ -2172,9 +2538,6 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/r
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/onix152/sound.cfg"
 
 [[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/sounds/wholefamily.ogg"
-
-[[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cx_pis_cfg.js"
 
 [[files]]
@@ -2224,9 +2587,6 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/m
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/ann.js"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/cartoon_train.png"
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/cxd106/newpis/logo.png"
@@ -2305,15 +2665,6 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtr/zbx1425/s_train_cab_driver.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/alex_wriggle.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/alex_wriggle_adult.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/alex_wriggle_adult.obj"
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/common_jp_stop_pos_sign.json"
@@ -2463,36 +2814,6 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecand
 file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/common_jp_stop_pos_sign/sign/sign_vertical.png"
 
 [[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/forail_railway_signage.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_pole.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_pole.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_texture.png"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_twall.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/forail/fr_railway_signage/ohl_end_1_twall.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1_pull.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/ohl_support/ohl_support_1_push.obj"
-
-[[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal.png"
 
 [[files]]
@@ -2514,6 +2835,15 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecand
 file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_back.obj"
 
 [[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_left.json"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_left.mtl"
+
+[[files]]
+file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_left.obj"
+
+[[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.json"
 
 [[files]]
@@ -2521,18 +2851,6 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecand
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/eyecandies/signal/signal_light_3_wall_right.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/shonan_monorail_track.json"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/track_1.mtl"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/track_1.obj"
-
-[[files]]
-file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/shonan_monorail/track_1.png"
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/pack.mcmeta"
@@ -2551,6 +2869,9 @@ file = "resources/resourcepack/required/gcaps_deco_object/assets/mtrsteamloco/ey
 
 [[files]]
 file = "resources/resourcepack/required/gcaps_deco_object/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/idrix-sez.zip"
 
 [[files]]
 file = "resources/resourcepack/required/jsonpatcher-demo/assets/jsonpatcher_demo/textures/item/demo_item.png"
